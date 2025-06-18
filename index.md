@@ -19,7 +19,7 @@ aber intern keine Führung greifen lässt. Viele IT-nahe Organisationen im Mitte
 
 <hr style="margin-top: 2rem; margin-bottom: 2rem;">
 
-## ▤ Wie ich arbeite
+## ▦ Wie ich arbeite
 
 Ich arbeite nicht mit Tools – sondern mit Sprache, Struktur und systemischer Führung. Was ich tue, lässt sich in drei Schritten beschreiben:
 
