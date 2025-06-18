@@ -46,7 +46,7 @@ Ich begleite den bewussten Rückzug – und ermögliche die Multiplikation durch
 
 ## ▧ Angebote auf einen Blick
 
-Alle Angebote sind als Fixpreis definiert – ohne Stundensatz, ohne Überraschung. Was zählt, ist Wirkung – nicht Aufwand. [Details zu den Angeboten ↓](#details-zu-den-angeboten)
+Alle Angebote sind als Fixpreis definiert – ohne Stundensatz, ohne Überraschung. Was zählt, ist Wirkung – nicht Aufwand. [Details zu den Angeboten ↓](#-details-zu-den-angeboten)
 
 | Modell              | Preis (netto)       | Dauer                        |
 |---------------------|---------------------|------------------------------|
