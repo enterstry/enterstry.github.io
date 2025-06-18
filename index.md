@@ -17,7 +17,8 @@ aber intern keine Führung greifen lässt. Viele IT-nahe Organisationen im Mitte
 
 > Nicht mit Tools. Sondern mit Sprache, Struktur und Klarheit.​
 
----
+<hr style="margin-top: 2rem; margin-bottom: 2rem;">
+
 ## Wie ich arbeite
 
 Ich arbeite nicht mit Tools – sondern mit Sprache, Struktur und systemischer Führung. Was ich tue, lässt sich in drei Schritten beschreiben:
@@ -41,7 +42,8 @@ Ich begleite Organisationen, die wissen, wo sie hinwollen – aber keine innere 
 Ich begleite den bewussten Rückzug – und ermögliche die Multiplikation durch andere. So wird Führung nicht von mir abhängig – sondern im System wirksam.  
 > **Formate:** Abschlussbegleitung
 
----
+<hr style="margin-top: 2rem; margin-bottom: 2rem;">
+
 ## Angebote auf einen Blick
 
 Alle Angebote sind als Fixpreis definiert – ohne Stundensatz, ohne Überraschung. Was zählt, ist Wirkung – nicht Aufwand. [Details zu den Angeboten ↓](#details-zu-den-angeboten)
