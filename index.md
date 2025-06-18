@@ -11,7 +11,9 @@ permalink: /
 > Ich bringe Struktur dorthin, wo technische Systeme keine Richtung haben."
 
 ​Ich bringe Struktur in Projekte, die technisch bereitstehen –
-aber intern keine Führung greifen lässt. Viele IT-nahe Organisationen im Mittelstand sind ausgestattet mit ERP, Teams, Prozessen – aber Entscheidungen bleiben liegen, Zuständigkeit zirkuliert, und niemand führt klar. Ich arbeite dort, wo Technik nicht das Problem ist – sondern die Richtung. **Nicht mit Tools. Sondern mit Sprache, Struktur und Klarheit.​**
+aber intern keine Führung greifen lässt. Viele IT-nahe Organisationen im Mittelstand sind ausgestattet mit ERP, Teams, Prozessen – aber Entscheidungen bleiben liegen, Zuständigkeit zirkuliert, und niemand führt klar. Ich arbeite dort, wo Technik nicht das Problem ist – sondern die Richtung. 
+
+**Nicht mit Tools. Sondern mit Sprache, Struktur und Klarheit.​**
 
 **Stefan Bergmann** - _Geschäftsführer – Enterstry GmbH_
 
