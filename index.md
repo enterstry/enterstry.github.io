@@ -5,7 +5,7 @@ layout: page_no_title
 permalink: /
 ---
 
-## 🔹 Systemischer Berater für IT-nahe Organisationen  
+## ➤ Systemischer Berater für IT-nahe Organisationen  
 
 > "Projekte starten. Entscheidungen bleiben aus.  
 > Ich bringe Struktur dorthin, wo technische Systeme keine Richtung haben."
@@ -19,7 +19,7 @@ aber intern keine Führung greifen lässt. Viele IT-nahe Organisationen im Mitte
 
 <hr style="margin-top: 2rem; margin-bottom: 2rem;">
 
-## 🔹 Wie ich arbeite
+## ▤ Wie ich arbeite
 
 Ich arbeite nicht mit Tools – sondern mit Sprache, Struktur und systemischer Führung. Was ich tue, lässt sich in drei Schritten beschreiben:
 
@@ -44,7 +44,7 @@ Ich begleite den bewussten Rückzug – und ermögliche die Multiplikation durch
 
 <hr style="margin-top: 2rem; margin-bottom: 2rem;">
 
-## 🔹 Angebote auf einen Blick
+## ▧ Angebote auf einen Blick
 
 Alle Angebote sind als Fixpreis definiert – ohne Stundensatz, ohne Überraschung. Was zählt, ist Wirkung – nicht Aufwand. [Details zu den Angeboten ↓](#details-zu-den-angeboten)
 
@@ -57,7 +57,7 @@ Alle Angebote sind als Fixpreis definiert – ohne Stundensatz, ohne Überraschu
 | Korrektur-Modell    | 6.500 €             | 1 Woche                      |
 | Abschlussbegleitung | enthalten           | nach Bedarf, typ. 1–3 Monate |
 
-### Details zu den Angeboten
+### ⧉ Details zu den Angeboten
 
 - ***Diagnose-Modell***  
 *Einstieg zur systemischen Klärung:*
