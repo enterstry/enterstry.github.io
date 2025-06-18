@@ -29,36 +29,96 @@ Ich arbeite nicht mit Tools – sondern mit Sprache, Struktur und systemischer F
 Was ich tue, lässt sich in drei Schritten beschreiben:
 
 ### 1. Diagnose – wenn alles da ist, aber nichts greift.
-> Wenn Projekte oder Organisationen geplant sind,
-> aber nicht in Gang kommen.  
-> Oder wenn alles läuft – aber intern keiner führt.
+Wenn Projekte oder Organisationen geplant sind,
+aber nicht in Gang kommen.  
+Oder wenn alles läuft – aber intern keiner führt.
 
-> Ich kläre, wo Entscheidungen fehlen – und was verhindert, dass Struktur greift.  
-> **Formate:** Diagnose-Modell · Projektdiagnose
+Ich kläre, wo Entscheidungen fehlen – und was verhindert, dass Struktur greift.  
+**Formate:** Diagnose-Modell · Projektdiagnose
 ​
-
 ### 2. Struktur & Begleitung – wenn Richtung da ist, aber Rhythmus fehlt.
 
-> Ich begleite Organisationen, die wissen, wo sie hinwollen –  
-> aber keine innere Ordnung haben, um dorthin zu kommen.
+Ich begleite Organisationen, die wissen, wo sie hinwollen –  
+aber keine innere Ordnung haben, um dorthin zu kommen.
 
-> Nicht als Berater im Takt – sondern als strukturgebende Präsenz.  
-> **Formate:** Projekt-Modell · Begleit-Modell
-
+Nicht als Berater im Takt – sondern als strukturgebende Präsenz.  
+**Formate:** Projekt-Modell · Begleit-Modell
 
 ### 3. Übergabe & Verstärkung – wenn Systeme wieder selbst führen.
 
-> Ich begleite den bewussten Rückzug –  
-> und ermögliche die Multiplikation durch andere.
+Ich begleite den bewussten Rückzug –  
+und ermögliche die Multiplikation durch andere.
 
-> So wird Führung nicht von mir abhängig – sondern im System wirksam.  
-> **Formate:** Abschlussbegleitung
+So wird Führung nicht von mir abhängig – sondern im System wirksam.  
+**Formate:** Abschlussbegleitung
 
 ---
 ## 📋 Angebote auf einen Blick
 
 Alle Angebote sind als Fixpreis definiert – ohne Stundensatz, ohne Überraschung.  
 Was zählt, ist Wirkung – nicht Aufwand.
+
+### Diagnose-Modell
+
+**Einstieg zur systemischen Klärung**:  
+wenn Organisationen technisch bereit sind – aber keiner führt.
+
+**Preis:** 4.800 €  
+**Dauer:** 3–5 Tage + Session
+
+---
+
+### Projektdiagnose
+
+**Analyse auf Projektebene**:  
+wenn das Projekt rutscht, obwohl alles technisch bereit ist.
+
+**Preis:** 5.800 €  
+**Dauer:** 5 Tage
+
+---
+
+### Projekt-Modell
+
+**Strukturgebende Begleitung im laufenden Projekt**:  
+Rollen klären, Führung wirksam machen.
+
+**Preis:** 4.800 €  
+**Dauer:** 1–3 Tage (Modulpaket)
+
+---
+
+### Begleit-Modell
+
+**Strategische Führung auf Zeit**:  
+Resonanz, Steuerung, Klarheit – kein Taktgeber, sondern Führungskraft auf Zeit.
+
+**Preis:** 9.800 € / Monat  
+**Dauer:** fortlaufend, kündbar
+
+---
+
+### Korrektur-Modell
+
+**Wenn Strukturen kippen – aber noch rettbar sind.**  
+Ich greife strukturell ein, nicht operativ.
+
+**Preis:** 6.500 €  
+**Dauer:** 1 Woche
+
+---
+
+### Abschlussbegleitung
+
+**Bewusstes Zurücktreten**  
+Ich begleite, bis das System selbst führt.
+
+**Preis:** enthalten  
+**Dauer:** nach Bedarf, typ. 1–3 Monate
+
+
+
+
 
 | Modell              | Preis (netto)       | Dauer                        |
 |---------------------|---------------------|------------------------------|
