@@ -15,18 +15,13 @@ permalink: /
 
 
 **​Ich bringe Struktur in Projekte, die technisch bereitstehen –**
-**aber intern keine Führung greifen lässt.**
+**aber intern keine Führung greifen lässt.** Viele IT-nahe Organisationen im Mittelstand sind ausgestattet mit ERP, Teams, Prozessen – aber Entscheidungen bleiben liegen, Zuständigkeit zirkuliert, und niemand führt klar. Ich arbeite dort, wo Technik nicht das Problem ist – sondern die Richtung.
 
-Viele IT-nahe Organisationen im Mittelstand sind ausgestattet mit ERP, Teams, Prozessen –  
-aber Entscheidungen bleiben liegen, Zuständigkeit zirkuliert, und niemand führt klar.
-Ich arbeite dort, wo Technik nicht das Problem ist – sondern die Richtung.
-
-> Nicht mit Tools. Sondern mit Haltung, Struktur und Klarheit.​
+> Nicht mit Tools. Sondern mit Sprache, Struktur und Klarheit.​
 
 ## Wie ich arbeite
 
-Ich arbeite nicht mit Tools – sondern mit Sprache, Struktur und systemischer Führung.
-Was ich tue, lässt sich in drei Schritten beschreiben:
+Ich arbeite nicht mit Tools – sondern mit Sprache, Struktur und systemischer Führung. Was ich tue, lässt sich in drei Schritten beschreiben:
 
 **1. Diagnose – wenn alles da ist, aber nichts greift.**
 
@@ -39,15 +34,14 @@ Ich kläre, wo Entscheidungen fehlen – und was verhindert, dass Struktur greif
 ​
 **2. Struktur & Begleitung – wenn Richtung da ist, aber Rhythmus fehlt.**
 
-Ich begleite Organisationen, die wissen, wo sie hinwollen – aber keine innere Ordnung haben, um dorthin zu kommen. Nicht als Berater im Takt – sondern als strukturgebende Präsenz.  
+Ich begleite Organisationen, die wissen, wo sie hinwollen – aber keine innere Ordnung haben, um dorthin zu kommen. Nicht als Berater – sondern als strukturgebende Präsenz.  
 
 **Formate:** Projekt-Modell · Begleit-Modell
 
 
 **3. Übergabe & Verstärkung – wenn Systeme wieder selbst führen.**
 
-Ich begleite den bewussten Rückzug – und ermögliche die Multiplikation durch andere.
-So wird Führung nicht von mir abhängig – sondern im System wirksam.  
+Ich begleite den bewussten Rückzug – und ermögliche die Multiplikation durch andere. So wird Führung nicht von mir abhängig – sondern im System wirksam.  
 
 **Formate:** Abschlussbegleitung
 
@@ -69,25 +63,25 @@ Was zählt, ist Wirkung – nicht Aufwand.
 ## Details zu den Angeboten
 
 - **Diagnose-Modell**  
-Einstieg zur systemischen Klärung:  
+*Einstieg zur systemischen Klärung:*
 wenn Organisationen technisch bereit sind – aber keiner führt.
 
 - **Projektdiagnose**  
-Analyse auf Projektebene:  
+*Analyse auf Projektebene:*  
 wenn alles da ist – aber das Projekt nicht greift.
 
 - **Projekt-Modell**  
-Strukturgebende Begleitung im laufenden Projekt.  
+*Strukturgebende Begleitung im laufenden Projekt.*  
 Ich kläre Rollen, bringe Führung in die Fläche.
 
 - **Begleit-Modell**  
-Strategische Führung auf Zeit.  
+*Strategische Führung auf Zeit.*  
 Keine Abarbeitung – sondern Resonanz, Steuerung, Klarheit.
 
 - **Korrektur-Modell**  
-Wenn Strukturen kippen – aber noch rettbar sind.  
+*Wenn Strukturen kippen – aber noch rettbar sind.* 
 Ich greife strukturell ein, nicht operativ.
 
 - **Abschlussbegleitung**  
-Bewusstes Zurücktreten.  
+*Bewusstes Zurücktreten.*  
 Ich begleite, bis das System selbst führt.
