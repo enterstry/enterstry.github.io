@@ -1,13 +1,11 @@
 ---
-title: Enterstry
+title: ""
 description: Systemische Klarheit für IT-nahe Organisationen
 ---
 
 # Stefan Bergmann  
 **Systemischer Berater für IT-nahe Organisationen**  
 _Geschäftsführer – Enterstry GmbH_
-
----
 
 > Projekte starten.  
 > Entscheidungen bleiben aus.  
