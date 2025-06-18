@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Start"
 description: Systemische Klarheit für IT-nahe Organisationen
 ---
 
