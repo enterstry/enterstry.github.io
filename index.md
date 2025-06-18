@@ -7,11 +7,11 @@ permalink: /
 
 ## Systemischer Berater für IT-nahe Organisationen  
 
+**Stefan Bergmann** - _Geschäftsführer – Enterstry GmbH_
+
 > Projekte starten.  
 > Entscheidungen bleiben aus.  
 > Ich bringe Struktur dorthin, wo technische Systeme keine Richtung haben.
-
-**Stefan Bergmann** - _Geschäftsführer – Enterstry GmbH_
 
 
 **​Ich bringe Struktur in Projekte, die technisch bereitstehen – aber intern keine Führung greifen lässt.**
@@ -31,6 +31,7 @@ Was ich tue, lässt sich in drei Schritten beschreiben:
 ### 1. Diagnose – wenn alles da ist, aber nichts greift.
 Wenn Projekte oder Organisationen geplant sind,
 aber nicht in Gang kommen.  
+
 Oder wenn alles läuft – aber intern keiner führt.
 
 Ich kläre, wo Entscheidungen fehlen – und was verhindert, dass Struktur greift.  
