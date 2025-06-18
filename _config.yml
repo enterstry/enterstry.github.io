@@ -4,4 +4,4 @@ header_pages: []
 markdown: kramdown
 include_css:
   - /assets/css/custom.css
-theme: classic #minima #classic
+theme: minima #classic
