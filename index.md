@@ -6,11 +6,12 @@ permalink: /
 ---
 
 ## Systemischer Berater für IT-nahe Organisationen  
-**Stefan Bergmann**
-_Geschäftsführer – Enterstry GmbH_
 
 > Projekte starten.  
 > Entscheidungen bleiben aus.  
 > Ich bringe Struktur dorthin, wo technische Systeme keine Richtung haben.
+**Stefan Bergmann** - _Geschäftsführer – Enterstry GmbH_
+
+
 
 
