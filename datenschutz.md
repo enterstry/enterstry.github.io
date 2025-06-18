@@ -1,6 +1,6 @@
 ---
 title: Datenschutz
-layout: page
+layout: page_no_title
 permalink: /datenschutz/
 ---
 

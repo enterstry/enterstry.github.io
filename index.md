@@ -1,6 +1,8 @@
 ---
 title: Start
 description: Systemische Klarheit für IT-nahe Organisationen
+layout: page_no_title
+permalink: /
 ---
 
 # Stefan Bergmann  
