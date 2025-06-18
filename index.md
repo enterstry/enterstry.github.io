@@ -7,8 +7,7 @@ permalink: /
 
 ## Systemischer Berater für IT-nahe Organisationen  
 
-> "Projekte starten.  
-> Entscheidungen bleiben aus.  
+> "Projekte starten. Entscheidungen bleiben aus.  
 > Ich bringe Struktur dorthin, wo technische Systeme keine Richtung haben."
 
 **Stefan Bergmann** - _Geschäftsführer – Enterstry GmbH_
@@ -41,10 +40,9 @@ Ich begleite Organisationen, die wissen, wo sie hinwollen – aber keine innere 
 Ich begleite den bewussten Rückzug – und ermögliche die Multiplikation durch andere. So wird Führung nicht von mir abhängig – sondern im System wirksam.  
 > **Formate:** Abschlussbegleitung
 
-
 ## Angebote auf einen Blick
 
-Alle Angebote sind als Fixpreis definiert – ohne Stundensatz, ohne Überraschung. Was zählt, ist Wirkung – nicht Aufwand.
+Alle Angebote sind als Fixpreis definiert – ohne Stundensatz, ohne Überraschung. Was zählt, ist Wirkung – nicht Aufwand. [Details zu den Angeboten ↓](#details-zu-den-angeboten)
 
 | Modell              | Preis (netto)       | Dauer                        |
 |---------------------|---------------------|------------------------------|
@@ -57,26 +55,26 @@ Alle Angebote sind als Fixpreis definiert – ohne Stundensatz, ohne Überraschu
 
 ## Details zu den Angeboten
 
-- **Diagnose-Modell**  
+- ***Diagnose-Modell***  
 *Einstieg zur systemischen Klärung:*
 wenn Organisationen technisch bereit sind – aber keiner führt.
 
-- **Projektdiagnose**  
+- ***Projektdiagnose***  
 *Analyse auf Projektebene:*  
 wenn alles da ist – aber das Projekt nicht greift.
 
-- **Projekt-Modell**  
+- ***Projekt-Modell***  
 *Strukturgebende Begleitung im laufenden Projekt.*  
 Ich kläre Rollen, bringe Führung in die Fläche.
 
-- **Begleit-Modell**  
+- ***Begleit-Modell***  
 *Strategische Führung auf Zeit.*  
 Keine Abarbeitung – sondern Resonanz, Steuerung, Klarheit.
 
-- **Korrektur-Modell**  
+- ***Korrektur-Modell***  
 *Wenn Strukturen kippen – aber noch rettbar sind.* 
 Ich greife strukturell ein, nicht operativ.
 
-- **Abschlussbegleitung**  
+- ***Abschlussbegleitung***  
 *Bewusstes Zurücktreten.*  
 Ich begleite, bis das System selbst führt.
