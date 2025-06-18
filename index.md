@@ -5,7 +5,7 @@ layout: page_no_title
 permalink: /
 ---
 
-## <span style="color:rgb(7, 110, 212);">➤</span> Systemischer Berater für IT-nahe Organisationen  
+## <span style="background:rgb(7, 110, 212);">➤</span> Systemischer Berater für IT-nahe Organisationen  
 
 > "Projekte starten. Entscheidungen bleiben aus.  
 > Ich bringe Struktur dorthin, wo technische Systeme keine Richtung haben."
