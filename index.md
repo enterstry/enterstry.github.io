@@ -7,7 +7,7 @@ permalink: /
 
 ## ➤ Systemischer Berater für IT-nahe Organisationen  
 
-> 🔹 "Projekte starten. Entscheidungen bleiben aus.  
+> "Projekte starten. Entscheidungen bleiben aus.  
 > Ich bringe Struktur dorthin, wo technische Systeme keine Richtung haben."
 
 ​Ich bringe Struktur in Projekte, die technisch bereitstehen –
@@ -15,7 +15,7 @@ aber intern keine Führung greifen lässt. Viele IT-nahe Organisationen im Mitte
 
 **Nicht mit Tools. Sondern mit Sprache, Struktur und Klarheit.​**
 
-**Stefan Bergmann** - _Geschäftsführer – Enterstry GmbH_
+**Stefan Bergmann** 🔹 _Geschäftsführer 🔹 Enterstry GmbH_
 
 <hr style="margin-top: 2rem; margin-bottom: 2rem;">
 
