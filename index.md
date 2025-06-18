@@ -19,7 +19,7 @@ aber intern keine Führung greifen lässt. Viele IT-nahe Organisationen im Mitte
 
 <hr style="margin-top: 2rem; margin-bottom: 2rem;">
 
-## 1️⃣ Wie ich arbeite
+## 🔷 Wie ich arbeite
 
 Ich arbeite nicht mit Tools – sondern mit Sprache, Struktur und systemischer Führung. Was ich tue, lässt sich in drei Schritten beschreiben:
 
@@ -44,7 +44,7 @@ Ich begleite den bewussten Rückzug – und ermögliche die Multiplikation durch
 
 <hr style="margin-top: 2rem; margin-bottom: 2rem;">
 
-## 2️⃣ Angebote auf einen Blick
+## 🔷 Angebote auf einen Blick
 
 Alle Angebote sind als Fixpreis definiert – ohne Stundensatz, ohne Überraschung. Was zählt, ist Wirkung – nicht Aufwand. [Details zu den Angeboten ↓](#details-zu-den-angeboten)
 
