@@ -53,7 +53,7 @@ So entsteht kein „Go-Live“ – sondern ein Projekt, das wirklich greift.
 Wo ich wirke – zeigt sich in drei Phasen.
 
 ---
-## ▦ Wie ich arbeite
+<h2 id="wie-ich-arbeite">▦ Wie ich arbeite</h2>
 
 Ich arbeite nicht mit Werkzeugen – sondern mit Sprache, Struktur und systemischer Führung. Was ich tue, lässt sich in drei Schritten beschreiben:
 
@@ -83,7 +83,7 @@ Ich begleite den bewussten Rückzug – und ermögliche die Multiplikation durch
 <br><br>
 
 ---
-## ▧ Angebote auf einen Blick
+<h2 id="angebote-auf-einen-blick">▧ Angebote auf einen Blick</h2>
 
 Alle Angebote sind als Fixpreis definiert – ohne Stundensatz, ohne Überraschung. Was zählt, ist Wirkung – nicht Aufwand. [Details zu den Angeboten ↓](#-details-zu-den-angeboten)
 
@@ -126,7 +126,8 @@ Bewusstes Zurücktreten – strukturiert, nicht abrupt.<br>
 **Alle Formate beginnen mit einem Gespräch. Nicht mit einem Angebot.**
 
 ---
-## ▣ Kontakt
+<h2 id="kontakt">▣ Kontakt</h2>
+
 Wenn Sie ein Projekt klären möchten – <br>
 oder herausfinden wollen, ob meine Arbeit für Ihr Unternehmen relevant ist – 
 <br>melden Sie sich gern.
