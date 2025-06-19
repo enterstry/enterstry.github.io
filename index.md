@@ -10,6 +10,8 @@ permalink: /
 **Was ich tue, nennen andere Beratung. Ich nenne es: Wirkung durch Struktur.**
 
 Projekte starten. Entscheidungen bleiben aus.
+<br>Technisch ist alles vorbereitet – aber niemand führt.
+<br>
 Ich bringe Struktur dorthin, wo technische Systeme keine Richtung haben.
 
 Ich begleite Organisationen im Mittelstand –
@@ -20,7 +22,8 @@ aber Zuständigkeit zirkuliert, und Entscheidungen nicht greifen.
 > Ich bringe Struktur in Projekte, die laufen sollen –
 aber keine klare Führung entfalten.
 
-Nicht mit Tools.
+Nicht mit Tools. 
+<br>
 Sondern mit Sprache, Haltung und systemischer Klarheit.
 
 Ich führe nicht nur intern –
@@ -47,27 +50,34 @@ Ich übernehme diese Rolle – nicht operativ, sondern strukturgebend:
 
 So entsteht kein „Go-Live“ – sondern ein Projekt, das wirklich greift.
 
+Wo ich wirke – zeigt sich in drei Phasen.
+
 ---
 ## ▦ Wie ich arbeite
 
-Ich arbeite nicht mit Tools – sondern mit Sprache, Struktur und systemischer Führung. Was ich tue, lässt sich in drei Schritten beschreiben:
+Ich arbeite nicht mit Werkzeugen – sondern mit Sprache, Struktur und systemischer Führung. Was ich tue, lässt sich in drei Schritten beschreiben:
 
 **1. Diagnose – wenn alles da ist, aber nichts greift.**
 
-Wenn Projekte oder Organisationen geplant sind, aber nicht in Gang kommen. Oder wenn alles läuft – aber intern keiner führt. Ich kläre, wo Entscheidungen fehlen – und was verhindert, dass Struktur greift. 
-<br> **Formate:** Diagnose-Modell · Projektdiagnose
+Wenn Projekte oder Organisationen geplant sind, aber nicht in Gang kommen. Oder wenn alles läuft – aber intern keiner führt. <br>Ich kläre, wo Entscheidungen fehlen – und was verhindert, dass Struktur greift. 
+<br>
+<br>**Formate:** Diagnose-Modell · Projektdiagnose
 
 ​
 **2. Struktur & Begleitung – wenn Richtung da ist, aber Rhythmus fehlt.**
 
-Ich begleite Organisationen, die wissen, wo sie hinwollen – aber keine innere Ordnung haben, um dorthin zu kommen. Nicht als Berater – sondern als strukturgebende Präsenz.  
+Ich begleite Organisationen, die wissen, wo sie hinwollen – aber keine innere Ordnung haben, um dorthin zu kommen. 
+<br>Nicht als Berater – sondern als strukturgebende Präsenz.  
+<br>
 <br>**Formate:** Projekt-Modell · Begleit-Modell
 
 
 **3. Übergabe & Verstärkung – wenn Systeme wieder selbst führen.**
 
-Ich begleite den bewussten Rückzug – und ermögliche die Multiplikation durch andere. So wird Führung nicht von mir abhängig – sondern im System wirksam.  
-<br> **Formate:** Abschlussbegleitung
+Ich begleite den bewussten Rückzug – und ermögliche die Multiplikation durch andere. 
+<br>So wird Führung nicht von mir abhängig – sondern im System wirksam.  
+<br>
+<br>**Formate:** Abschlussbegleitung
 
 ---
 ## ▧ Angebote auf einen Blick
@@ -86,25 +96,29 @@ Alle Angebote sind als Fixpreis definiert – ohne Stundensatz, ohne Überraschu
 ### ⧉ Details zu den Angeboten
 
 - ***Diagnose-Modell***  
-Einstieg zur systemischen Klärung:
+Einstieg zur systemischen Klärung:<br>
 Wenn Organisationen technisch bereit sind – aber keine innere Richtung spürbar ist.
-Ich kläre Führungsstrukturen, bevor Tools und Projektpläne dominieren.
+Ich kläre Führungsstrukturen, bevor Werkzeuge und Projektpläne dominieren.
 
 - ***Projektdiagnose***  
-Analyse auf Projektebene – wenn alles scheinbar läuft, aber nichts wirklich greift.
-Ich beobachte unabhängig, bevor Systeme kippen. Auch in technisch stabilen Projekten mit strukturellem Stillstand.
+Analyse auf Projektebene – wenn alles scheinbar läuft, aber nichts wirklich greift.<br>
+*Ich beobachte unabhängig, bevor Systeme kippen. Auch in technisch stabilen Projekten mit strukturellem Stillstand.*
 
 - ***Projekt-Modell***  
-Strukturgebende Begleitung im laufenden Projekt.
-Ich kläre Rollen, schaffe Entscheidungsmomente – auch dort, wo ein externer Projektmanager führt, aber keine innere Führung entsteht.
+Strukturgebende Begleitung im laufenden Projekt.<br>
+*Ich kläre Rollen, schaffe Entscheidungsmomente – auch dort, wo ein externer Projektmanager führt, aber keine innere Führung entsteht.*
 
 - ***Begleit-Modell***  
-Strategische Führung auf Zeit – im Inneren der Organisation.
-Ich wirke als systemischer Gegenpart, wenn Dienstleister, Tools oder Implementierungspartner extern treiben – aber intern keine Ordnung greift.
+Strategische Führung auf Zeit – im Inneren der Organisation.<br>
+*Ich wirke als systemischer Gegenpart, wenn Dienstleister, Werkzeuge oder Implementierungspartner extern treiben – aber intern keine Ordnung greift.*
 
 - ***Korrektur-Modell***  
-Wenn Strukturen kippen, aber noch rettbar sind. Ich greife nicht operativ ein, sondern halte systemisch gegen – oft dort, wo externe Steuerung wirkt, aber kein inneres Führungssystem existiert.
+Wenn Strukturen kippen, aber noch rettbar sind. <br>
+*Ich greife nicht operativ ein, sondern halte systemisch gegen – oft dort, wo externe Steuerung wirkt, aber kein inneres Führungssystem existiert.*
 
 - ***Abschlussbegleitung***  
-Bewusstes Zurücktreten – strukturiert, nicht abrupt.
-Ich begleite so lange, bis das System selbst führt – intern wie gegenüber externen Partnern.
+Bewusstes Zurücktreten – strukturiert, nicht abrupt.<br>
+*Ich begleite so lange, bis das System selbst führt – intern wie gegenüber externen Partnern.*
+
+**Alle Formate beginnen mit einem Gespräch. Nicht mit einem Angebot.**
+
