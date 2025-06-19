@@ -42,13 +42,13 @@ Adresse wie oben <br>
 ---
 ### Haftungsausschluss
 
-Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links.  
-Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.
+Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.
 
 ---
 ### Hinweis zur Online-Streitbeilegung
 
 Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit:  
 [ec.europa.eu/consumers/odr](https://ec.europa.eu/consumers/odr)  
+
 Unsere E-Mail-Adresse finden Sie oben im Impressum.
 
