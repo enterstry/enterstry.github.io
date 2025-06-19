@@ -2,6 +2,9 @@ title: Enterstry
 description: Systemische Klarheit für IT-nahe Organisationen
 header_pages: []
 markdown: kramdown
-include_css:
-  - /assets/css/custom.css
 theme: minima #classic
+
+minima:
+  skin: classic
+  include_css:
+    - /assets/css/custom.css

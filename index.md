@@ -17,17 +17,14 @@ aber intern keine Führung greifen lässt. Viele IT-nahe Organisationen im Mitte
 
 **Stefan Bergmann** - _Geschäftsführer - Enterstry GmbH_
 
-<hr style="margin-top: 2rem; margin-bottom: 2rem;">
-
+---
 ## ▦ Wie ich arbeite
 
 Ich arbeite nicht mit Tools – sondern mit Sprache, Struktur und systemischer Führung. Was ich tue, lässt sich in drei Schritten beschreiben:
 
 **1. Diagnose – wenn alles da ist, aber nichts greift.**
 
-Wenn Projekte oder Organisationen geplant sind, aber nicht in Gang kommen.  
-Oder wenn alles läuft – aber intern keiner führt.
-Ich kläre, wo Entscheidungen fehlen – und was verhindert, dass Struktur greift. 
+Wenn Projekte oder Organisationen geplant sind, aber nicht in Gang kommen. Oder wenn alles läuft – aber intern keiner führt. Ich kläre, wo Entscheidungen fehlen – und was verhindert, dass Struktur greift. 
 > **Formate:** Diagnose-Modell · Projektdiagnose
 
 ​
@@ -42,8 +39,7 @@ Ich begleite Organisationen, die wissen, wo sie hinwollen – aber keine innere 
 Ich begleite den bewussten Rückzug – und ermögliche die Multiplikation durch andere. So wird Führung nicht von mir abhängig – sondern im System wirksam.  
 > **Formate:** Abschlussbegleitung
 
-<hr style="margin-top: 2rem; margin-bottom: 2rem;">
-
+---
 ## ▧ Angebote auf einen Blick
 
 Alle Angebote sind als Fixpreis definiert – ohne Stundensatz, ohne Überraschung. Was zählt, ist Wirkung – nicht Aufwand. [Details zu den Angeboten ↓](#-details-zu-den-angeboten)
