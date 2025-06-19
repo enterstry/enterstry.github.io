@@ -123,7 +123,6 @@ Wenn Strukturen kippen, aber noch rettbar sind. <br>
 Bewusstes Zurücktreten – strukturiert, nicht abrupt.<br>
 *Ich begleite so lange, bis das System selbst führt – intern wie gegenüber externen Partnern.*
 
-<br>
 
 **Alle Formate beginnen mit einem Gespräch. <br> Nicht mit einem Angebot.**
 
