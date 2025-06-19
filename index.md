@@ -125,3 +125,19 @@ Bewusstes Zurücktreten – strukturiert, nicht abrupt.<br>
 
 **Alle Formate beginnen mit einem Gespräch. Nicht mit einem Angebot.**
 
+---
+## ▣ Kontakt
+Wenn Sie ein Projekt klären möchten – <br>
+oder herausfinden wollen, ob meine Arbeit für Ihr Unternehmen relevant ist – 
+<br>melden Sie sich gern.
+
+**Enterstry GmbH** <br>
+Stefan Bergmann <br>
+Pyrbaumerweg 8a <br>
+90592 Schwarzenbruck / Nürnberg <br>
+<br>
+📧 s.bergmann@enterstry.de <br>
+📞 +49 162 42 86 180 <br>
+
+Bitte beachten Sie:<br>
+Ich verwende bewusst kein Kontaktformular und kein Tracking. Ihre Nachricht erreicht mich direkt – ohne Umwege, ohne Datenspur.
