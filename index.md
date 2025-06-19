@@ -62,15 +62,15 @@ Ich arbeite nicht mit Werkzeugen – sondern mit Sprache, Struktur und systemisc
 Wenn Projekte oder Organisationen geplant sind, aber nicht in Gang kommen. Oder wenn alles läuft – aber intern keiner führt. <br>Ich kläre, wo Entscheidungen fehlen – und was verhindert, dass Struktur greift. 
 <br>
 <br>**Formate:** Diagnose-Modell · Projektdiagnose
+<br>
 
-​
 **2. Struktur & Begleitung – wenn Richtung da ist, aber Rhythmus fehlt.**
 
 Ich begleite Organisationen, die wissen, wo sie hinwollen – aber keine innere Ordnung haben, um dorthin zu kommen. 
 <br>Nicht als Berater – sondern als strukturgebende Präsenz.  
 <br>
 <br>**Formate:** Projekt-Modell · Begleit-Modell
-
+<br>
 
 **3. Übergabe & Verstärkung – wenn Systeme wieder selbst führen.**
 
@@ -78,6 +78,7 @@ Ich begleite den bewussten Rückzug – und ermögliche die Multiplikation durch
 <br>So wird Führung nicht von mir abhängig – sondern im System wirksam.  
 <br>
 <br>**Formate:** Abschlussbegleitung
+<br>
 
 ---
 ## ▧ Angebote auf einen Blick
