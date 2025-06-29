@@ -8,7 +8,7 @@ permalink: /ueber-mich/
 
 ## Was mich trägt
 
-Ich habe lange Zeit Systeme gebaut - bis ich begann, Organisationen bei ihrer Einführung und Gestaltung zu unterstützen.<br><br>
+Ich habe lange Zeit Systeme gebaut - bis ich begann, Organisationen bei ihrer Einführung und Gestaltung zu unterstützen.
 
 Erst Software, dann Architekturen, dann Organisationen.
 
