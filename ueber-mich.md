@@ -17,7 +17,7 @@ Was geblieben ist: die Suche nach Ordnung – und der Wunsch, Dinge wieder ins L
 Ich komme aus der Softwareentwicklung, bin systemischer Berater und begleite heute Teams, Führungskräfte und Organisationen, die zwischen Führung, IT und Projektarbeit ihre Richtung verloren haben.
 
 Meine Ausbildung reicht von NLP über Projektarchitektur bis zu systemischer Praxis.  
-Aber was mich trägt, ist die Fähigkeit, zuzuhören – und das System zu lesen.
+Aber was mich trägt, ist die Fähigkeit, zuzuhören – und Systeme zu lesen.
 
 <br style="clear: both;">
 
