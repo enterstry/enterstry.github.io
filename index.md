@@ -142,6 +142,8 @@ Deutschland <br>
 📞 Telefon: +49 162 42 86 180 <br> 
 📧 E-Mail: [kontakt@enterstry.de](mailto:kontakt@enterstry.de) <br>
 🌐 Website: [www.enterstry.de](https://www.enterstry.de) <br>
+🎥 YouTube: [Impulse & Keynotes](https://www.youtube.com/channel/UCG4FRC56O2tcx2uzQaws0FQ) <br>
+
 
 Bitte beachten Sie:<br>
 Ich verwende bewusst kein Kontaktformular und kein Tracking. Ihre Nachricht erreicht mich direkt – ohne Umwege, ohne Datenspur.
