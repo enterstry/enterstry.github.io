@@ -8,14 +8,15 @@ permalink: /impressum/
 
 Angaben gemäß § 5 TMG
 
-**Enterstry GmbH & Co. KG** <br>
+**Enterstry GmbH & Co. KG** <br><br>
+Stefan Bergmann <br>
 Pyrbaumerweg 8a <br>
 90502 Schwarzenbruck, Germany <br>
 Deutschland <br>
 
-Telefon: +49 162 42 86 180  
-E-Mail: kontakt@enterstry.de  
-Website: [www.enterstry.de](https://www.enterstry.de)
+📞 Telefon: +49 162 42 86 180 <br> 
+📧 E-Mail: [kontakt@enterstry.de](mailto:kontakt@enterstry.de) <br>
+🌐 Website: [www.enterstry.de](https://www.enterstry.de) <br>
 
 ## Vertreten durch  
 Stefan Bergmann (Geschäftsführer)
