@@ -8,14 +8,13 @@ permalink: /ueber-mich/
 
 ## Was mich trägt
 
-Ich habe Systeme gebaut, bevor ich sie hinterfragt habe.  
+Ich habe lange Zeit Systeme gebaut - bis ich begann, Organisationen bei ihrer Einführung und Gestaltung zu unterstützen.<br><br>
+
 Erst Software, dann Architekturen, dann Organisationen.
 
-Was geblieben ist: die Suche nach Ordnung – und der Wunsch, Dinge wieder ins Lot zu bringen. 
-Nicht durch Werkzeuge. Sondern durch Haltung und Führung.
+Was geblieben ist: die Suche nach Ordnung – und der Wunsch, Dinge wieder ins Lot zu bringen. Nicht durch Werkzeuge. Sondern durch Haltung und Führung.
 
-Ich komme aus der Softwareentwicklung, bin systemischer Berater und begleite heute Teams,  
-Projekte und Führungskräfte, die nicht mehr wissen, wo vorn ist.
+Ich komme aus der Softwareentwicklung, bin systemischer Berater und begleite heute Teams, Führungskräfte und Organisationen, die zwischen Führung, IT und Projektarbeit ihre Richtung verloren haben.
 
 Meine Ausbildung reicht von NLP über Projektarchitektur bis zu systemischer Praxis.  
 Aber was mich trägt, ist die Fähigkeit, zuzuhören – und das System zu lesen.
