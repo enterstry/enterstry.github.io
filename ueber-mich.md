@@ -6,6 +6,8 @@ permalink: /ueber-mich/
 
 <img src="/assets/images/stefan.jpg" alt="Stefan Bergmann" style="max-width: 300px; float: right; margin-left: 2rem; border-radius: 6px;">
 
+## Was mich trägt
+
 Ich habe Systeme gebaut, bevor ich sie hinterfragt habe.  
 Erst Software, dann Architekturen, dann Organisationen.
 
