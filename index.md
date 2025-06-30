@@ -87,29 +87,30 @@ Ich begleite den bewussten Rückzug – und ermögliche die Multiplikation durch
 
 Alle Angebote sind als Fixpreis definiert – ohne Stundensatz, ohne Überraschung. Was zählt, ist Wirkung – nicht Aufwand. [Details zu den Angeboten ↓](#-details-zu-den-angeboten)
 
-| Modell              | Preis (netto)       | Dauer                        |
-|---------------------|---------------------|------------------------------|
-| Diagnose-Modell     | 4.800 €             | 3–5 Tage + Session           |
-| Projektdiagnose     | 5.800 €             | 5 Tage                       |
-| Projekt-Modell      | 4.800 €             | 1–3 Tage (Modulpaket)        |
-| Begleit-Modell      | 9.800 € / Monat     | fortlaufend, kündbar         |
-| Korrektur-Modell    | 6.500 €             | 1 Woche                      |
-| Abschlussbegleitung | enthalten           | nach Bedarf, typ. 1–3 Monate |
+| Modell              | Preis (netto)       | Dauer                         |
+|---------------------|---------------------|-------------------------------|
+| Diagnose-Modell     | 11.000 €            | 3–5 Tage                      |
+| Projektdiagnose     | 14.800 €            | 5 Tage                        |
+| Projekt-Modell      | 8.500 €             | 1–3 Tage, klar strukturierend |
+| Begleit-Modell      | 21.000 € / Monat    | strukturell eingebunden       |
+| Korrektur-Modell    | 11.000 €            | 1 Woche                       |
+| Abschlussbegleitung | enthalten           | nach Bedarf, typ. 1–3 Monate  |
 
 ### ⧉ Details zu den Angeboten
 
 - ***Diagnose-Modell***  
-Einstieg zur systemischen Klärung:<br>
-Wenn Organisationen technisch bereit sind – aber keine innere Richtung spürbar ist.
-Ich kläre Führungsstrukturen, bevor Werkzeuge und Projektpläne dominieren.
+Einstieg zur systemischen Standortbestimmung:<br>
+Wenn Organisationen technisch bereit sind – aber Führungsimpulse fehlen.
+*Ich mache sichtbar, was fehlt, bevor operative Maßnahmen greifen.*
 
 - ***Projektdiagnose***  
 Analyse auf Projektebene – wenn alles scheinbar läuft, aber nichts wirklich greift.<br>
-*Ich beobachte unabhängig, bevor Systeme kippen. Auch in technisch stabilen Projekten mit strukturellem Stillstand.*
+*Ich beobachte unabhängig, bevor Systeme kippen. Ich erkenne strukturellen Stillstand – auch dort, wo Technik über Stabilität hinwegtäuscht.*
 
 - ***Projekt-Modell***  
-Strukturgebende Begleitung im laufenden Projekt.<br>
-*Ich kläre Rollen, schaffe Entscheidungsmomente – auch dort, wo ein externer Projektmanager führt, aber keine innere Führung entsteht.*
+Strukturgebende Intervention im laufenden Projekt:<br>
+*Ich kläre Rollen, bringe Projekte wieder in Führung – auch dort, wo operative Leitung vorhanden ist, aber systemisch niemand führt.*
+**Ich begleite nicht – ich führe von der Seite.**
 
 - ***Begleit-Modell***  
 Strategische Führung auf Zeit – im Inneren der Organisation.<br>
