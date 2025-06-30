@@ -93,7 +93,7 @@ Alle Angebote sind als Fixpreis definiert – ohne Stundensatz, ohne Überraschu
 | Projektdiagnose     | 14.800 €            | 5 Tage                        |
 | Projekt-Modell      | 8.500 €             | 1–3 Tage, klar strukturierend |
 | Begleit-Modell      | 21.000 € / Monat    | strukturell eingebunden       |
-| Korrektur-Modell    | 11.000 €            | 1 Woche                       |
+| Korrektur-Modell    | 11.000 €            | 4-5 Tage                      |
 | Abschlussbegleitung | enthalten           | nach Bedarf, typ. 1–3 Monate  |
 
 ### ⧉ Details zu den Angeboten
@@ -110,7 +110,7 @@ Analyse auf Projektebene – wenn alles scheinbar läuft, aber nichts wirklich g
 - ***Projekt-Modell***  
 Strukturgebende Intervention im laufenden Projekt:<br>
 *Ich kläre Rollen, bringe Projekte wieder in Führung – auch dort, wo operative Leitung vorhanden ist, aber systemisch niemand führt.*
-**Ich begleite nicht – ich führe von der Seite.**
+*Ich begleite nicht – ich führe von der Seite.*
 
 - ***Begleit-Modell***  
 Strategische Führung auf Zeit – im Inneren der Organisation.<br>
