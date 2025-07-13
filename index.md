@@ -111,35 +111,34 @@ Einstieg zur systemischen Standortbestimmung:<br>
 Wenn Organisationen technisch bereit sind – aber Führungsimpulse fehlen.
 *Ich mache sichtbar, was fehlt, bevor operative Maßnahmen greifen.*
 
-- ***Projektdiagnose***  
+- ***Projektdiagnose***<br>
 Analyse auf Projektebene – wenn alles scheinbar läuft, aber nichts wirklich greift.<br>
 *Ich beobachte unabhängig, bevor Systeme kippen. Ich erkenne strukturellen Stillstand – auch dort, wo Technik über Stabilität hinwegtäuscht.*
 
-- ***Projekt-Modell***  
+- ***Projekt-Modell***<br>
 Strukturgebende Intervention im laufenden Projekt:<br>
 *Ich kläre Rollen, bringe Projekte wieder in Führung – auch dort, wo operative Leitung vorhanden ist, aber systemisch niemand führt.* 
 *Ich begleite nicht – ich führe von der Seite. Ich arbeite nicht im Projekt – sondern am Entscheidungssystem, das Projektführung überhaupt erst möglich macht.*
 
-- ***Begleit-Modell***  
+- ***Begleit-Modell***<br>
 Strategische Führung auf Zeit – im Inneren der Organisation.<br>
 *Ich wirke als systemischer Gegenpart, wenn Dienstleister, Werkzeuge oder Implementierungspartner extern treiben – aber intern keine Ordnung greift.*
 
-- ***Korrektur-Modell***  
+- ***Korrektur-Modell***<br>
 Wenn Strukturen kippen, aber noch rettbar sind. <br>
 *Ich greife nicht operativ ein, sondern halte systemisch gegen – oft dort, wo externe Steuerung wirkt, aber kein inneres Führungssystem existiert.*
 
-- ***Führungs-Modell***
+- ***Führungs-Modell***<br>
 Schulung für Führungskräfte – insbesondere in technisch geprägten Organisationen. <br>
 *Ich mache sichtbar, wo Verantwortung greift – und wo Führung fehlt. Ich kläre Haltung – bevor Verhalten scheitert.*
 
-- ***Führungs-Vertiefung***
+- ***Führungs-Vertiefung***<br>
 Für Führungskräfte, die Wirkung wollen – nicht Methoden. <br>
 *Ich arbeite entlang realer Führungssituationen – strukturell, sprachlich, entscheidungsklar.*
 
-- ***Abschlussbegleitung***  
+- ***Abschlussbegleitung***<br>
 Bewusstes Zurücktreten – strukturiert, nicht abrupt.<br>
 *Ich begleite so lange, bis das System selbst führt – intern wie gegenüber externen Partnern.*
-
 
 **Alle Formate beginnen mit einem Gespräch. <br> Nicht mit einem Angebot.**
 
@@ -151,6 +150,7 @@ oder herausfinden wollen, ob meine Arbeit für Ihr Unternehmen relevant ist –
 <br>melden Sie sich gern. <br>
 
 **Enterstry GmbH & Co. KG** <br>
+<br>
 Stefan Bergmann <br>
 Pyrbaumerweg 8a <br>
 90502 Schwarzenbruck, Germany <br>
