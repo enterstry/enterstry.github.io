@@ -147,14 +147,13 @@ Bewusstes Zurücktreten – strukturiert, nicht abrupt.<br>
 
 Wenn Sie ein Projekt klären möchten – <br>
 oder herausfinden wollen, ob meine Arbeit für Ihr Unternehmen relevant ist – 
-<br>melden Sie sich gern. <br><br>
+<br>melden Sie sich gern. <br>
 
 **Enterstry GmbH & Co. KG** <br>
-<br>
-Stefan Bergmann <br>
-Pyrbaumerweg 8a <br>
-90502 Schwarzenbruck, Germany <br>
-Deutschland <br>
+*Stefan Bergmann* <br>
+*Pyrbaumerweg 8a* <br>
+*90502 Schwarzenbruck, Germany* <br>
+*Deutschland* <br>
 
 📞 Telefon: +49 162 42 86 180 <br> 
 📧 E-Mail: [kontakt@enterstry.de](mailto:kontakt@enterstry.de) <br>
