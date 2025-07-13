@@ -5,7 +5,7 @@ layout: page_no_title
 permalink: /
 ---
 
-## ➤ Systemische Klarheit – wenn Organisationen technisch bereit sind, aber intern nicht greifen
+# ➤ Systemische Klarheit – wenn Organisationen technisch bereit sind, aber intern nicht greifen
 ---
 
 **Was ich tue, nennen andere Beratung. Ich nenne es: Wirkung durch Struktur.**
@@ -34,7 +34,6 @@ aber niemand strukturell gegenhält.
 **Stefan Bergmann** <br>
 _Geschäftsführer - Enterstry GmbH_
 
-<br>
 
 ## ▨ Technische Führung – systemisch verankert
 ---
@@ -56,8 +55,6 @@ Ich halte Technik handlungsfähig – ohne sie selbst zu machen.
 
 Ich stärke Strukturen – damit Systeme nicht von außen gesteuert werden müssen.
 
-<br>
-
 ## ▤ Technisches Projekt – systemisch begleitet
 ---
 
@@ -76,8 +73,6 @@ Ich übernehme diese Rolle – nicht operativ, sondern strukturgebend:
 So entsteht kein „Go-Live“ – sondern ein Projekt, das wirklich greift.
 
 Wo ich wirke – zeigt sich in drei Phasen.
-
-<br>
 
 <h2 id="wie-ich-arbeite">▦ Wie ich arbeite</h2>
 ---

@@ -1,10 +1,10 @@
 h2, h3, h4 {
- /* margin-top: 2rem; */
-  margin-bottom: 1rem;
- /* color: darkred; */
+  margin-top: 2rem; 
+ /* margin-bottom: 1rem; */
+  /*color: darkred; */ 
 }
 
 hr {
-  margin-top: 0.0rem;   /* weniger Abstand nach oben */
+  margin-top: -0.5rem;   /* weniger Abstand nach oben */
   margin-bottom: 2.5rem;  /* mehr Abstand nach unten */
 }
