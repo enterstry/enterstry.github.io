@@ -147,7 +147,7 @@ Bewusstes Zurücktreten – strukturiert, nicht abrupt.<br>
 
 Wenn Sie ein Projekt klären möchten – <br>
 oder herausfinden wollen, ob meine Arbeit für Ihr Unternehmen relevant ist – 
-<br>melden Sie sich gern. <br>
+<br>melden Sie sich gern. <br><br>
 
 **Enterstry GmbH & Co. KG** <br>
 <br>
