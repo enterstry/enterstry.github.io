@@ -20,8 +20,8 @@ dort, wo technisch alles bereitsteht, aber niemand führt.
 Wo ERP, Prozesse und Methoden vorhanden sind –
 aber Zuständigkeit zirkuliert, und Entscheidungen nicht greifen.
 
-> Ich bringe Struktur in Projekte, die laufen sollen –
-aber keine klare Führung entfalten.
+***Ich bringe Struktur in Projekte, die laufen sollen –
+aber keine klare Führung entfalten.***
 
 Nicht mit Tools. 
 <br>
