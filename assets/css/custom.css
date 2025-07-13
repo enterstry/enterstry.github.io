@@ -5,6 +5,6 @@ h2, h3, h4 {
 }
 
 hr {
-  margin-top: 0.5rem;   /* weniger Abstand nach oben */
+  margin-top: 0.0rem;   /* weniger Abstand nach oben */
   margin-bottom: 2.5rem;  /* mehr Abstand nach unten */
 }
