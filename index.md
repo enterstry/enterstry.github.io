@@ -6,6 +6,7 @@ permalink: /
 ---
 
 ## ➤ Systemische Klarheit – wenn Organisationen technisch bereit sind, aber intern nicht greifen
+---
 
 **Was ich tue, nennen andere Beratung. Ich nenne es: Wirkung durch Struktur.**
 
@@ -33,8 +34,28 @@ aber niemand strukturell gegenhält.
 **Stefan Bergmann** <br>
 _Geschäftsführer - Enterstry GmbH_
 
+## ▨ Technische Führung – systemisch verankert
 ---
+
+Technik ist da. Dienstleister treiben. Doch intern führt niemand.
+
+Ich übernehme nicht das Projekt – sondern die strukturelle Verantwortung, die oft fehlt, wenn technische Lösungen eingeführt werden, aber keine Führung für sie existiert.
+
+Ich bin nicht CTO.
+Ich bin der strukturelle Gegenpart für technische Projekte.
+
+Ob ERP-Einführung, Cloud-Migration oder KI-Integration – technische Systeme greifen nur, wenn jemand intern Ordnung hält. Ich übersetze nicht Tools – ich übersetze Technik in Haltung, Verantwortung und Entscheidung.
+
+Ich halte Führung im Raum – dort, wo Dienstleister operieren, aber keine innere Autorität wirkt.
+
+Ich kläre, wer entscheidet – und wofür.
+
+Ich halte Technik handlungsfähig – ohne sie selbst zu machen.
+
+Ich stärke Strukturen – damit Systeme nicht von außen gesteuert werden müssen.
+
 ## ▤ Technisches Projekt – systemisch begleitet
+---
 
 **Ich begleite nicht nur intern.**
 
@@ -91,9 +112,11 @@ Alle Angebote sind als Fixpreis definiert – ohne Stundensatz, ohne Überraschu
 |---------------------|---------------------|-------------------------------|
 | Diagnose-Modell     | 11.000 €            | 3–5 Tage                      |
 | Projektdiagnose     | 14.800 €            | 5 Tage                        |
-| Projekt-Modell      | 8.500 €             | 1–3 Tage, klar strukturierend |
+| Projekt-Modell      | 12.500 €            | 3–5 Tage, klar strukturierend |
 | Begleit-Modell      | 21.000 € / Monat    | strukturell eingebunden       |
 | Korrektur-Modell    | 11.000 €            | 4–5 Tage                      |
+| Führungs-Modell	  | 9.800 €	            | 2 Tage                        | 
+| Führungs-Vertiefung | 14.500 €	        | 3–4 Tage + Follow-up          |
 | Abschlussbegleitung | enthalten           | nach Bedarf, typ. 1–3 Monate  |
 
 ### ⧉ Details zu den Angeboten
@@ -109,8 +132,8 @@ Analyse auf Projektebene – wenn alles scheinbar läuft, aber nichts wirklich g
 
 - ***Projekt-Modell***  
 Strukturgebende Intervention im laufenden Projekt:<br>
-*Ich kläre Rollen, bringe Projekte wieder in Führung – auch dort, wo operative Leitung vorhanden ist, aber systemisch niemand führt.*
-*Ich begleite nicht – ich führe von der Seite.*
+*Ich kläre Rollen, bringe Projekte wieder in Führung – auch dort, wo operative Leitung vorhanden ist, aber systemisch niemand führt.* 
+*Ich begleite nicht – ich führe von der Seite. Ich arbeite nicht im Projekt – sondern am Entscheidungssystem, das Projektführung überhaupt erst möglich macht.*
 
 - ***Begleit-Modell***  
 Strategische Führung auf Zeit – im Inneren der Organisation.<br>
@@ -119,6 +142,14 @@ Strategische Führung auf Zeit – im Inneren der Organisation.<br>
 - ***Korrektur-Modell***  
 Wenn Strukturen kippen, aber noch rettbar sind. <br>
 *Ich greife nicht operativ ein, sondern halte systemisch gegen – oft dort, wo externe Steuerung wirkt, aber kein inneres Führungssystem existiert.*
+
+- ***Führungs-Modell***
+Schulung für Führungskräfte – insbesondere in technisch geprägten Organisationen. <br>
+*Ich mache sichtbar, wo Verantwortung greift – und wo Führung fehlt. Ich kläre Haltung – bevor Verhalten scheitert.*
+
+- ***Führungs-Vertiefung***
+Für Führungskräfte, die Wirkung wollen – nicht Methoden. <br>
+*Ich arbeite entlang realer Führungssituationen – strukturell, sprachlich, entscheidungsklar.*
 
 - ***Abschlussbegleitung***  
 Bewusstes Zurücktreten – strukturiert, nicht abrupt.<br>

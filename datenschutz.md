@@ -5,6 +5,7 @@ permalink: /datenschutz/
 ---
 
 # Datenschutzerklärung
+---
 
 Diese Website wird von der Enterstry GmbH betrieben.  
 Sie dient ausschließlich der Bereitstellung von Informationen.
