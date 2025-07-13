@@ -13,3 +13,7 @@ hr {
 p {
   margin-bottom: 10px;
 }
+
+section, h2, h3 {
+  scroll-margin-top: 60px;
+}
