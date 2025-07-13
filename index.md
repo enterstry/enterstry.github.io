@@ -5,7 +5,7 @@ layout: page_no_title
 permalink: /
 ---
 
-# <span style="background-color:darkred; color:white; padding:0.1em 0.4em; border-radius:0.2em;">➤</span>  Systemische Klarheit – wenn Organisationen technisch bereit sind, aber intern nicht greifen
+# Systemische Klarheit – wenn Organisationen technisch bereit sind, aber intern nicht greifen
 ---
 
 **Was ich tue, nennen andere Beratung. Ich nenne es: Wirkung durch Struktur.**
@@ -35,7 +35,7 @@ aber niemand strukturell gegenhält.
 _Geschäftsführer - Enterstry GmbH_
 
 
-## ▨ System A - Technische Führung – systemisch verankert
+## ▨ Strukturfeld I – Technische Führung – systemisch verankert
 ---
 
 Technik ist da. Dienstleister treiben. Doch intern führt niemand.
@@ -47,15 +47,9 @@ Ich übernehme nicht das Projekt – sondern die strukturelle Verantwortung, die
 
 Ob ERP-Einführung, Cloud-Migration oder KI-Integration – technische Systeme greifen nur, wenn jemand intern Ordnung hält. Ich übersetze nicht Tools – ich übersetze Technik in Haltung, Verantwortung und Entscheidung.
 
-Ich halte Führung im Raum – dort, wo Dienstleister operieren, aber keine innere Autorität wirkt.
+Ich halte Führung im Raum – dort, wo Dienstleister operieren, aber keine innere Autorität wirkt. Ich kläre, wer entscheidet – und wofür. Ich halte Technik handlungsfähig – ohne sie selbst zu machen Ich stärke Strukturen – damit Systeme nicht von außen gesteuert werden müssen.
 
-Ich kläre, wer entscheidet – und wofür.
-
-Ich halte Technik handlungsfähig – ohne sie selbst zu machen.
-
-Ich stärke Strukturen – damit Systeme nicht von außen gesteuert werden müssen.
-
-## ▧ System B - Technisches Projekt – systemisch begleitet
+## ▧ Strukturfeld II – Technisches Projekt – systemisch begleitet
 ---
 
 **Ich begleite nicht nur intern.**
@@ -72,8 +66,6 @@ Ich übernehme diese Rolle – nicht operativ, sondern strukturgebend:
 
 So entsteht kein „Go-Live“ – sondern ein Projekt, das wirklich greift.
 
-Wo ich wirke – zeigt sich in drei Phasen.
-
 <h2 id="wie-ich-arbeite">⧉ Wie ich arbeite</h2>
 ---
 
@@ -81,18 +73,18 @@ Ich arbeite nicht mit Werkzeugen – sondern mit Sprache, Struktur und systemisc
 
 **1. Diagnose – wenn alles da ist, aber nichts greift.**<br>
 Wenn Projekte oder Organisationen geplant sind, aber nicht in Gang kommen. Oder wenn alles läuft – aber intern keiner führt. Ich kläre, wo Entscheidungen fehlen – und was verhindert, dass Struktur greift. 
-<br>**Formate:** Diagnose-Modell · Projektdiagnose
+<br>➤ **Formate:** Diagnose-Modell · Projektdiagnose
 <br>
 
 **2. Struktur & Begleitung – wenn Richtung da ist, aber Rhythmus fehlt.** <br>
 Ich begleite Organisationen, die wissen, wo sie hinwollen – aber keine innere Ordnung haben, um dorthin zu kommen. Nicht als Berater – sondern als strukturgebende Präsenz.  
-<br>**Formate:** Projekt-Modell · Begleit-Modell
+<br>➤ **Formate:** Projekt-Modell · Begleit-Modell
 <br>
 
 **3. Übergabe & Verstärkung – wenn Systeme wieder selbst führen.** <br>
 Ich begleite den bewussten Rückzug – und ermögliche die Multiplikation durch andere. 
 So wird Führung nicht von mir abhängig – sondern im System wirksam.  
-<br>**Formate:** Abschlussbegleitung
+<br>➤ **Formate:** Abschlussbegleitung
 <br>
 
 
