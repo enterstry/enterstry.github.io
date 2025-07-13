@@ -5,7 +5,7 @@ layout: page_no_title
 permalink: /
 ---
 
-# ➤ Systemische Klarheit – wenn Organisationen technisch bereit sind, aber intern nicht greifen
+# Systemische Klarheit – wenn Organisationen technisch bereit sind, aber intern nicht greifen
 ---
 
 **Was ich tue, nennen andere Beratung. Ich nenne es: Wirkung durch Struktur.**
@@ -35,15 +35,15 @@ aber niemand strukturell gegenhält.
 _Geschäftsführer - Enterstry GmbH_
 
 
-## ▨ Technische Führung – systemisch verankert
+## ▨ System A - Technische Führung – systemisch verankert
 ---
 
 Technik ist da. Dienstleister treiben. Doch intern führt niemand.
 
 Ich übernehme nicht das Projekt – sondern die strukturelle Verantwortung, die oft fehlt, wenn technische Lösungen eingeführt werden, aber keine Führung für sie existiert.
 
-Ich bin nicht CTO.
-Ich bin der strukturelle Gegenpart für technische Projekte.
+**Ich bin nicht CTO.** <br> 
+**Ich bin der strukturelle Gegenpart für technische Projekte.**
 
 Ob ERP-Einführung, Cloud-Migration oder KI-Integration – technische Systeme greifen nur, wenn jemand intern Ordnung hält. Ich übersetze nicht Tools – ich übersetze Technik in Haltung, Verantwortung und Entscheidung.
 
@@ -55,7 +55,7 @@ Ich halte Technik handlungsfähig – ohne sie selbst zu machen.
 
 Ich stärke Strukturen – damit Systeme nicht von außen gesteuert werden müssen.
 
-## ▤ Technisches Projekt – systemisch begleitet
+## ▧ System B - Technisches Projekt – systemisch begleitet
 ---
 
 **Ich begleite nicht nur intern.**
@@ -74,7 +74,7 @@ So entsteht kein „Go-Live“ – sondern ein Projekt, das wirklich greift.
 
 Wo ich wirke – zeigt sich in drei Phasen.
 
-<h2 id="wie-ich-arbeite">▦ Wie ich arbeite</h2>
+<h2 id="wie-ich-arbeite">⧉ Wie ich arbeite</h2>
 ---
 
 Ich arbeite nicht mit Werkzeugen – sondern mit Sprache, Struktur und systemischer Führung. Was ich tue, lässt sich in drei Schritten beschreiben:
@@ -96,7 +96,7 @@ So wird Führung nicht von mir abhängig – sondern im System wirksam.  
 <br>
 
 
-<h2 id="angebote-auf-einen-blick">▧ Angebote auf einen Blick</h2>
+<h2 id="angebote-auf-einen-blick"> □ Angebote auf einen Blick</h2>
 ---
 
 Alle Angebote sind als Fixpreis definiert – ohne Stundensatz, ohne Überraschung. Was zählt, ist Wirkung – nicht Aufwand. [Details zu den Angeboten ↓](#-details-zu-den-angeboten)
@@ -112,7 +112,7 @@ Alle Angebote sind als Fixpreis definiert – ohne Stundensatz, ohne Überraschu
 | Führungs-Vertiefung | 14.500 €	        | 3–4 Tage + Follow-up          |
 | Abschlussbegleitung | enthalten           | nach Bedarf, typ. 1–3 Monate  |
 
-### ⧉ Details zu den Angeboten
+### ➤ Details zu den Angeboten
 
 - ***Diagnose-Modell***  
 Einstieg zur systemischen Standortbestimmung:<br>
@@ -156,9 +156,9 @@ Bewusstes Zurücktreten – strukturiert, nicht abrupt.<br>
 
 Wenn Sie ein Projekt klären möchten – <br>
 oder herausfinden wollen, ob meine Arbeit für Ihr Unternehmen relevant ist – 
-<br>melden Sie sich gern.
+<br>melden Sie sich gern. <br>
 
-**Enterstry GmbH & Co. KG** <br><br>
+**Enterstry GmbH & Co. KG** <br>
 Stefan Bergmann <br>
 Pyrbaumerweg 8a <br>
 90502 Schwarzenbruck, Germany <br>
@@ -167,6 +167,3 @@ Deutschland <br>
 📞 Telefon: +49 162 42 86 180 <br> 
 📧 E-Mail: [kontakt@enterstry.de](mailto:kontakt@enterstry.de) <br>
 🌐 Website: [www.enterstry.de](https://www.enterstry.de) <br>
-
-Bitte beachten Sie:<br>
-Ich verwende bewusst kein Kontaktformular und kein Tracking. Ihre Nachricht erreicht mich direkt – ohne Umwege, ohne Datenspur.
