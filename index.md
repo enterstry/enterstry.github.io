@@ -79,30 +79,21 @@ Wo ich wirke – zeigt sich in drei Phasen.
 
 Ich arbeite nicht mit Werkzeugen – sondern mit Sprache, Struktur und systemischer Führung. Was ich tue, lässt sich in drei Schritten beschreiben:
 
-**1. Diagnose – wenn alles da ist, aber nichts greift.**
-
-Wenn Projekte oder Organisationen geplant sind, aber nicht in Gang kommen. Oder wenn alles läuft – aber intern keiner führt. <br>Ich kläre, wo Entscheidungen fehlen – und was verhindert, dass Struktur greift. 
-<br>
+**1. Diagnose – wenn alles da ist, aber nichts greift.**<br>
+Wenn Projekte oder Organisationen geplant sind, aber nicht in Gang kommen. Oder wenn alles läuft – aber intern keiner führt. Ich kläre, wo Entscheidungen fehlen – und was verhindert, dass Struktur greift. 
 <br>**Formate:** Diagnose-Modell · Projektdiagnose
-<br><br>
-
-
-**2. Struktur & Begleitung – wenn Richtung da ist, aber Rhythmus fehlt.**
-
-Ich begleite Organisationen, die wissen, wo sie hinwollen – aber keine innere Ordnung haben, um dorthin zu kommen. 
-<br>Nicht als Berater – sondern als strukturgebende Präsenz.  
 <br>
+
+**2. Struktur & Begleitung – wenn Richtung da ist, aber Rhythmus fehlt.** <br>
+Ich begleite Organisationen, die wissen, wo sie hinwollen – aber keine innere Ordnung haben, um dorthin zu kommen. Nicht als Berater – sondern als strukturgebende Präsenz.  
 <br>**Formate:** Projekt-Modell · Begleit-Modell
-<br><br>
-
-
-**3. Übergabe & Verstärkung – wenn Systeme wieder selbst führen.**
-
-Ich begleite den bewussten Rückzug – und ermögliche die Multiplikation durch andere. 
-<br>So wird Führung nicht von mir abhängig – sondern im System wirksam.  
 <br>
+
+**3. Übergabe & Verstärkung – wenn Systeme wieder selbst führen.** <br>
+Ich begleite den bewussten Rückzug – und ermögliche die Multiplikation durch andere. 
+So wird Führung nicht von mir abhängig – sondern im System wirksam.  
 <br>**Formate:** Abschlussbegleitung
-<br><br>
+<br>
 
 
 <h2 id="angebote-auf-einen-blick">▧ Angebote auf einen Blick</h2>

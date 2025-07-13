@@ -8,3 +8,7 @@ hr {
   margin-top: -0.5rem;   /* weniger Abstand nach oben */
   margin-bottom: 2.5rem;  /* mehr Abstand nach unten */
 }
+
+p {
+  margin-bottom: 10px;
+}
