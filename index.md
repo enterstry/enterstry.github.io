@@ -5,7 +5,7 @@ layout: page_no_title
 permalink: /
 ---
 
-# Systemische Klarheit – wenn Organisationen technisch bereit sind, aber intern nicht greifen
+# <span style="background-color:darkred; color:white; padding:0.1em 0.4em; border-radius:0.2em;">➤</span>  Systemische Klarheit – wenn Organisationen technisch bereit sind, aber intern nicht greifen
 ---
 
 **Was ich tue, nennen andere Beratung. Ich nenne es: Wirkung durch Struktur.**
