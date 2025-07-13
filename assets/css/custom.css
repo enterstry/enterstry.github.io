@@ -1,12 +1,13 @@
 h2, h3, h4 {
   margin-top: 2rem; 
- /* margin-bottom: 1rem; */
+  margin-bottom: 1rem; 
+  font-weight: bold;
   /*color: darkred; */ 
 }
 
 hr {
   margin-top: -0.5rem;   /* weniger Abstand nach oben */
-  margin-bottom: 2.5rem;  /* mehr Abstand nach unten */
+  margin-bottom: 1.5rem;  /* mehr Abstand nach unten */
 }
 
 p {
