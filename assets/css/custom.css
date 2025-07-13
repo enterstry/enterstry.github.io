@@ -4,7 +4,7 @@ h2, h3, h4 {
  /* color: darkred; */
 }
 
-/*
 hr {
-  margin: 2rem 0;
-}*/
+  margin-top: 0.5rem;   /* weniger Abstand nach oben */
+  margin-bottom: 2.5rem;  /* mehr Abstand nach unten */
+}
