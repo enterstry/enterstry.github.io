@@ -48,7 +48,7 @@ Ich übernehme nicht das Projekt – sondern die strukturelle Verantwortung, die
 
 Ob ERP-Einführung, Cloud-Migration oder KI-Integration – technische Systeme greifen nur, wenn jemand intern Ordnung hält. Ich übersetze nicht Tools – ich übersetze Technik in Haltung, Verantwortung und Entscheidung.
 
-Ich halte Führung im Raum – dort, wo Dienstleister operieren, aber keine innere Autorität wirkt. Ich kläre, wer entscheidet – und wofür. Ich halte Technik handlungsfähig – ohne sie selbst zu machen Ich stärke Strukturen – damit Systeme nicht von außen gesteuert werden müssen.
+Ich halte Führung im Raum – dort, wo Dienstleister operieren, aber keine innere Autorität wirkt. Ich kläre, wer entscheidet – und wofür. Ich halte Technik handlungsfähig – ohne sie selbst zu machen. Ich stärke Strukturen – damit Systeme nicht von außen gesteuert werden müssen.
 
 ## ▧ Strukturfeld II – Technisches Projekt – systemisch begleitet
 ---
@@ -92,9 +92,9 @@ So wird Führung nicht von mir abhängig – sondern im System wirksam.  
 <h2 id="angebote-auf-einen-blick"> □ Angebote auf einen Blick</h2>
 ---
 
-Alle Angebote sind als Fixpreis definiert – ohne Stundensatz, ohne Überraschung. Was zählt, ist Wirkung – nicht Aufwand. [Details zu den Angeboten ↓](#-details-zu-den-angeboten)
+**Alle Angebote sind als Fixpreis definiert** – ohne Stundensatz, ohne Überraschung. Die angegebenen Zeiträume sind **Richtwerte**. Entscheidend ist nicht die Anzahl der Tage – sondern, dass Struktur greift. Was zählt, ist Wirkung – nicht Aufwand. [Details zu den Angeboten ↓](#-details-zu-den-angeboten)
 
-| Modell              | Preis (netto)       | Dauer                         |
+| Modell              | Preis (netto)       | Dauer _(Richtwert)_                        |
 |---------------------|---------------------|-------------------------------|
 | Diagnose-Modell     | 11.000 €            | 3–5 Tage                      |
 | Projektdiagnose     | 14.800 €            | 5 Tage                        |
@@ -146,9 +146,10 @@ Bewusstes Zurücktreten – strukturiert, nicht abrupt.<br>
 <h2 id="kontakt">▣ Kontakt</h2>
 ---
 
-Wenn Sie ein Projekt klären möchten – <br>
-oder herausfinden wollen, ob meine Arbeit für Ihr Unternehmen relevant ist – 
-<br>melden Sie sich gern. <br>
+Wenn Sie Ordnung in ein Projekt bringen möchten – <br>
+oder Struktur in eine Organisation: <br>
+Ich bin ansprechbar. <br>
+Gerne im Gespräch. <br>
 
 **Enterstry GmbH & Co. KG** <br>
 *Stefan Bergmann* <br>
