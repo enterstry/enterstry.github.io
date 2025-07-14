@@ -23,7 +23,7 @@ Aber was mich trägt, ist die Fähigkeit, zuzuhören – und Systeme zu lesen.
 <br style="clear: both;">
 
 ***Stefan Bergmann*** <br>
-_Strukturgeber für Organisationen und Projekte ohne klare Führung_
+_Strukturgeber für Organisationen und Projekte – wenn Führung fehlt_
 
 _Geschäftsführer – Enterstry GmbH_
 

@@ -31,7 +31,7 @@ Ich führe nicht nur intern – ich schaffe Ordnung dort, wo externe Partner ope
 aber niemand strukturell gegenhält.
 
 ***Stefan Bergmann*** <br>
-_Strukturgeber für Organisationen und Projekte ohne klare Führung_
+_Strukturgeber für Organisationen und Projekte – wenn Führung fehlt_
 
 _Geschäftsführer – Enterstry GmbH_
 
