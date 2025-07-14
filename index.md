@@ -20,19 +20,20 @@ dort, wo technisch alles bereitsteht, aber niemand führt.
 Wo ERP, Prozesse und Methoden vorhanden sind –
 aber Zuständigkeit zirkuliert, und Entscheidungen nicht greifen.
 
-***Ich bringe Struktur in Projekte, die laufen sollen –
-aber keine klare Führung entfalten.***
+***Ich arbeite als Strukturgeber in Organisationen und Projekten,
+die laufen sollen – aber keine klare Führung entfalten.***
 
 Nicht mit Tools. 
 <br>
 Sondern mit Sprache, Haltung und systemischer Klarheit.
 
-Ich führe nicht nur intern –
-ich schaffe Ordnung dort, wo externe Partner operativ führen,
+Ich führe nicht nur intern – ich schaffe Ordnung dort, wo externe Partner operativ führen,
 aber niemand strukturell gegenhält.
 
-**Stefan Bergmann** <br>
-_Geschäftsführer - Enterstry GmbH_
+***Stefan Bergmann*** <br>
+_Strukturgeber für Organisationen und Projekte ohne klare Führung_
+
+_Geschäftsführer – Enterstry GmbH_
 
 
 ## ▨ Strukturfeld I – Technische Führung – systemisch verankert

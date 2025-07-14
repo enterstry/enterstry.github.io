@@ -22,7 +22,9 @@ Aber was mich trägt, ist die Fähigkeit, zuzuhören – und Systeme zu lesen.
 
 <br style="clear: both;">
 
-**Stefan Bergmann**  
-<em>Geschäftsführer – Enterstry GmbH</em>
+***Stefan Bergmann*** <br>
+_Strukturgeber für Organisationen und Projekte ohne klare Führung_
+
+_Geschäftsführer – Enterstry GmbH_
 
 <img src="/assets/images/signatur.png" alt="Unterschrift" style="max-width: 180px; margin-top: 1rem;">
