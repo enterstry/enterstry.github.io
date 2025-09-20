@@ -35,7 +35,7 @@ Pyrbaumerweg 8a <br>
 90502 Schwarzenbruck, Germany <br>
 Deutschland <br>
 
-📞 Telefon: +49 162 42 86 180 <br> 
+📞 Telefon: +49 9183 277 3999 <br> 
 📱 Mobile: +49 162 42 86 180 <br> 
 📧 E-Mail: [kontakt@enterstry.de](mailto:kontakt@enterstry.de) <br>
 🌐 Website: [www.enterstry.de](https://www.enterstry.de) <br>
