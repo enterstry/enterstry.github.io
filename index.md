@@ -159,5 +159,6 @@ Gerne im Gespräch. <br>
 *Deutschland* <br>
 
 📞 Telefon: +49 162 42 86 180 <br> 
+📱 Mobile: +49 162 42 86 180 <br> 
 📧 E-Mail: [kontakt@enterstry.de](mailto:kontakt@enterstry.de) <br>
 🌐 Website: [www.enterstry.de](https://www.enterstry.de) <br>
