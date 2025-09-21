@@ -6,7 +6,7 @@ permalink: /impressum/
 
 # Impressum
 ---
-
+ 
 Angaben gemäß § 5 TMG
 
 **Enterstry GmbH & Co. KG** <br><br>
@@ -54,4 +54,3 @@ Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS
 [ec.europa.eu/consumers/odr](https://ec.europa.eu/consumers/odr)  
 
 Unsere E-Mail-Adresse finden Sie oben im Impressum.
-
