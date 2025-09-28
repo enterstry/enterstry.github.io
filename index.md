@@ -154,7 +154,7 @@ Gerne im Gespräch. <br>
 
 **Enterstry GmbH & Co. KG** <br>
 *Stefan Bergmann* <br>
-*Pyrbaumerweg 8a* <br>
+*Pyrbaumer Weg 8a* <br>
 *90502 Schwarzenbruck, Germany* <br>
 *Deutschland* <br>
 

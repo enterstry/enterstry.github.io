@@ -11,7 +11,7 @@ Angaben gemäß § 5 TMG
 
 **Enterstry GmbH & Co. KG** <br><br>
 Stefan Bergmann <br>
-Pyrbaumerweg 8a <br>
+Pyrbaumer Weg 8a <br>
 90502 Schwarzenbruck, Germany <br>
 Deutschland <br>
 
