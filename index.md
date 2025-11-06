@@ -92,7 +92,7 @@ So wird Führung nicht von mir abhängig – sondern im System wirksam.  
 <h2 id="angebote-auf-einen-blick"> □ Angebote auf einen Blick</h2>
 ---
 
-**Alle Angebote sind als Fixpreis definiert** – ohne Stundensatz, ohne Überraschung. Die angegebenen Zeiträume sind **Richtwerte**. Entscheidend ist nicht die Anzahl der Tage – sondern, dass Struktur greift. Was zählt, ist Wirkung – nicht Aufwand. Das **Begleit-Modell wird individuell kalkuliert,** abhängig von Laufzeit, Rhythmus und Tiefe der Einbindung. <br>
+**Alle Angebote sind als Fixpreis definiert** – ohne Stundensatz, ohne Überraschung. Die angegebenen Zeiträume sind **Richtwerte**. Entscheidend ist nicht die Anzahl der Tage – sondern, dass Struktur greift. Was zählt, ist Wirkung – nicht Aufwand. Das **Begleit-Modell wird individuell kalkuliert** - abhängig von Laufzeit, Intensität und struktureller Einbindung. <br>
 
 [Details zu den Angeboten ↓](#-details-zu-den-angeboten)
 
