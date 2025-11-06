@@ -92,7 +92,8 @@ So wird Führung nicht von mir abhängig – sondern im System wirksam.  
 <h2 id="angebote-auf-einen-blick"> □ Angebote auf einen Blick</h2>
 ---
 
-**Alle Angebote sind als Fixpreis definiert** – ohne Stundensatz, ohne Überraschung. Die angegebenen Zeiträume sind **Richtwerte**. Entscheidend ist nicht die Anzahl der Tage – sondern, dass Struktur greift. Was zählt, ist Wirkung – nicht Aufwand. Das **Begleit-Modell wird individuell kalkuliert** - abhängig von Laufzeit, Intensität und struktureller Einbindung. <br>
+**Alle Angebote sind als Fixpreis definiert** – ohne Stundensatz, ohne Überraschung. Die angegebenen Zeiträume sind **Richtwerte**. Entscheidend ist nicht die Anzahl der Tage – sondern, dass Struktur greift. Was zählt, ist Wirkung – nicht Aufwand. <br><br>
+Das **Begleit-Modell wird individuell kalkuliert** - abhängig von Laufzeit, Intensität und struktureller Einbindung.<br>
 
 [Details zu den Angeboten ↓](#-details-zu-den-angeboten)
 
@@ -101,7 +102,7 @@ So wird Führung nicht von mir abhängig – sondern im System wirksam.  
 | Diagnose-Modell     | 11.000 €            | 3–5 Tage                      |
 | Projektdiagnose     | 14.800 €            | 5 Tage                        |
 | Projekt-Modell      | 12.500 €            | 3–5 Tage, klar strukturierend |
-| Begleit-Modell      | auf Anfrage         | abhängig von Laufzeit und Intensität       |
+| Begleit-Modell      | auf Anfrage         | abhängig von Laufzeit und Intensität |
 | Korrektur-Modell    | 11.000 €            | 4–5 Tage                      |
 | Führungs-Modell	  | 9.800 €	            | 2 Tage                        | 
 | Führungs-Vertiefung | 14.500 €	        | 3–4 Tage + Follow-up          |
