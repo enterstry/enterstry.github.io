@@ -106,7 +106,7 @@ Das **Begleit-Modell wird individuell kalkuliert** - abhängig von Laufzeit, Int
 | Korrektur-Modell    | 11.000 €            | 4–5 Tage                      |
 | Führungs-Modell	  | 9.800 €	            | 2 Tage                        | 
 | Führungs-Vertiefung | 14.500 €	        | 3–4 Tage + Follow-up          |
-| Abschlussbegleitung | enthalten           | nach Bedarf, typ. 1–3 Monate  |
+| Abschlussbegleitung | auf Anfrage         | nach Bedarf, typ. 1–3 Monate  |
 
 ### ➤ Details zu den Angeboten
 
