@@ -20,6 +20,11 @@ Ich komme aus der Softwareentwicklung, bin systemischer Berater und begleite heu
 Meine Ausbildung reicht von NLP über Projektarchitektur bis zu systemischer Praxis.  
 Aber was mich trägt, ist die Fähigkeit, zuzuhören – und Systeme zu lesen.
 
+In meiner Arbeit zeigt sich immer wieder, wo Organisationen an Struktur verlieren. Daraus entstand die Idee zu FreeData – als möglicher Schritt hin zu einer IT-Genossenschaft für den Mittelstand, in der Struktur und Software gemeinschaftlich geplant, entwickelt und getragen werden.
+
+Mehr dazu unter  
+[freedata.net](https://freedata.net)
+
 <br style="clear: both;">
 
 ***Stefan Bergmann*** <br>

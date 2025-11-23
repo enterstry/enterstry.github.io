@@ -8,6 +8,7 @@ h2, h3, h4 {
 hr {
   margin-top: -0.5rem;   /* weniger Abstand nach oben */
   margin-bottom: 1.5rem;  /* mehr Abstand nach unten */
+  color: lightgray;
 }
 
 p {
