@@ -12,7 +12,7 @@ permalink: /
 
 Projekte starten. Entscheidungen stocken.  
 Technik ist bereit – aber niemand setzt den Rahmen.
-Ich werde nicht geholt, wenn alles läuft – sondern wenn Orientierung fehlt – und Projekte instabil werden.
+Ich werde nicht geholt, wenn alles läuft – sondern wenn Orientierung fehlt und Projekte instabil werden.
 
 Ich begleite Organisationen im Mittelstand –
 dort, wo Voraussetzungen geschaffen sind, aber keine innere Orientierung entsteht.
@@ -66,84 +66,48 @@ Dort, wo auf Lieferantenseite ein Projektmanager steht, fehlt auf Kundenseite h�
 
 So entsteht kein „Go-Live“ – sondern ein Projekt, das wirklich greift.
 
+
+## ▦ Strukturfeld III – Führungsfähigkeit vermitteln
+---
+**Ich vermittle strukturelle Führung.**  
+In Workshops, Schulungen und gemeinsamen Klärungsformaten.
+
+Ich befähige Teams und Entscheider,
+Führung im technischen System und im technischen Projekt selbst handlungsfähig zu halten.
+
+
 <h2 id="wie-ich-arbeite">⧉ Wie ich arbeite</h2>
 ---
 
 Ich arbeite nicht mit festgelegten Werkzeugen – sondern mit Sprache, Struktur und systemischer Führung. Was ich tue, lässt sich in drei Schritten beschreiben:
 
 **1. Diagnose – wenn alles da ist, aber nichts greift.**<br>
-Wenn Projekte oder Organisationen geplant sind, aber nicht in Gang kommen. Oder wenn alles läuft – aber intern keiner führt. Ich kläre, wo Entscheidungen fehlen – und was verhindert, dass Struktur greift. 
-<br>➤ **Formate:** Diagnose-Modell · Projektdiagnose
+Wenn Projekte oder Organisationen geplant sind, aber nicht in Gang kommen. Oder wenn alles läuft – aber intern niemand führt. Ich kläre, wo Entscheidungen fehlen – und was verhindert, dass Struktur greift. 
 <br>
 
 **2. Struktur & Begleitung – wenn Richtung da ist, aber Rhythmus fehlt.** <br>
-Ich begleite Organisationen, die wissen, wo sie hinwollen – aber keine innere Ordnung haben, um dorthin zu kommen. Nicht als Berater – sondern als strukturgebende Präsenz.  
-<br>➤ **Formate:** Projekt-Modell · Begleit-Modell
+Ich begleite Organisationen, die wissen, wo sie hinwollen – aber keine innere Ordnung haben, um dorthin zu kommen.
+Nicht als Berater – sondern als strukturgebende Präsenz.  
 <br>
 
 **3. Übergabe & Verstärkung – wenn Systeme wieder selbst führen.** <br>
-Ich begleite den bewussten Rückzug – und ermögliche die Multiplikation durch andere. 
-So wird Führung nicht von mir abhängig – sondern im System wirksam.  
-<br>➤ **Formate:** Abschlussbegleitung
+In dieser Phase wird Führungsfähigkeit aufgebaut – strukturell, sprachlich, entscheidungsklar. Hier vermittle ich das, was ich zuvor gehalten habe – damit Organisationen Führung selbst tragen können.
 <br>
 
 
 <h2 id="angebote-auf-einen-blick"> □ Angebote auf einen Blick</h2>
 ---
 
-**Alle Angebote sind als Fixpreis definiert** – ohne Stundensatz, ohne Überraschung. Die angegebenen Zeiträume sind **Richtwerte**. Entscheidend ist nicht die Anzahl der Tage – sondern, dass Struktur greift. Was zählt, ist Wirkung – nicht Aufwand. <br><br>
-Das **Begleit-Modell wird individuell kalkuliert** - abhängig von Laufzeit, Intensität und struktureller Einbindung.<br>
+**Ich arbeite in drei Strukturfeldern:**  
 
-[Details zu den Angeboten ↓](#-details-zu-den-angeboten)
+- **Strukturfeld I:** Ich übernehme strukturelle Führung dort, wo Technik bereit ist – aber innere Autorität fehlt.
+- **Strukturfeld II:** Ich halte Führung in Projekten, die extern getrieben werden, aber intern niemand strukturell gegenhält.
+- **Strukturfeld III:** Ich befähige Teams und Entscheider, strukturelle Führung selbst zu halten.
 
-| Modell              | Preis (netto)       | Dauer _(Richtwert)_           |
-|---------------------|---------------------|-------------------------------|
-| Diagnose-Modell     | 11.000 €            | 3–5 Tage                      |
-| Projektdiagnose     | 14.800 €            | 5 Tage                        |
-| Projekt-Modell      | 12.500 €            | 3–5 Tage, klar strukturierend |
-| Begleit-Modell      | auf Anfrage         | abhängig von Laufzeit und Intensität |
-| Korrektur-Modell    | 11.000 €            | 4–5 Tage                      |
-| Führungs-Modell	  | 9.800 €	            | 2 Tage                        | 
-| Führungs-Vertiefung | 14.500 €	        | 3–4 Tage + Follow-up          |
-| Abschlussbegleitung | auf Anfrage         | nach Bedarf, typ. 1–3 Monate  |
+Preise und Umfang definieren wir gemeinsam –  
+nach Lage, Wirkung und Verantwortung.
 
-### ➤ Details zu den Angeboten
-
-- ***Diagnose-Modell***  
-Einstieg zur systemischen Standortbestimmung:<br>
-Wenn Organisationen technisch bereit sind – aber Führungsimpulse fehlen.
-*Ich mache sichtbar, was fehlt, bevor operative Maßnahmen greifen.*
-
-- ***Projektdiagnose***<br>
-Analyse auf Projektebene – wenn alles scheinbar läuft, aber nichts wirklich greift.<br>
-*Ich beobachte unabhängig, bevor Systeme kippen. Ich erkenne strukturellen Stillstand – auch dort, wo Technik über Stabilität hinwegtäuscht.*
-
-- ***Projekt-Modell***<br>
-Strukturgebende Intervention im laufenden Projekt:<br>
-*Ich kläre Rollen, bringe Projekte wieder in Führung – auch dort, wo operative Leitung vorhanden ist, aber systemisch niemand führt.* 
-*Ich begleite nicht – ich führe von der Seite. Ich arbeite nicht im Projekt – sondern am Entscheidungssystem, das Projektführung überhaupt erst möglich macht.*
-
-- ***Begleit-Modell***<br>
-Strategische Führung auf Zeit – im Inneren der Organisation.<br>
-*Ich wirke als systemischer Gegenpart, wenn Dienstleister, Werkzeuge oder Implementierungspartner extern treiben – aber intern keine Struktur greift.*
-
-- ***Korrektur-Modell***<br>
-Wenn Strukturen kippen, aber noch rettbar sind. <br>
-*Ich greife nicht operativ ein, sondern halte systemisch gegen – oft dort, wo externe Steuerung wirkt, aber kein inneres Führungssystem existiert.*
-
-- ***Führungs-Modell***<br>
-Schulung für Führungskräfte – insbesondere in technisch geprägten Organisationen. <br>
-*Ich mache sichtbar, wo Verantwortung greift – und wo Führung fehlt. Ich kläre Haltung – bevor Verhalten scheitert.*
-
-- ***Führungs-Vertiefung***<br>
-Für Führungskräfte, die Wirkung wollen – nicht Methoden. <br>
-*Ich arbeite entlang realer Führungssituationen – strukturell, sprachlich, entscheidungsklar.*
-
-- ***Abschlussbegleitung***<br>
-Bewusstes Zurücktreten – strukturiert, nicht abrupt.<br>
-*Ich begleite so lange, bis das System selbst führt – intern wie gegenüber externen Partnern.*
-
-**Alle Formate beginnen mit einem Gespräch. <br> Nicht mit einem Angebot.**
+Alles beginnt mit einem Gespräch. Nicht mit einem Angebot.
 
 <h2 id="kontakt">▣ Kontakt</h2>
 ---
