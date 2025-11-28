@@ -1,3 +1,9 @@
+:root{
+  --fg: #111;      /* Haupttextfarbe */
+  --muted: #666;   /* gedämpfte Texte, Teaser, Datum */
+  --line: #ddd;    /* Linien, Rahmen */
+}
+
 /* Layout Header */
 .site-header {
   position: sticky;
@@ -337,5 +343,7 @@ blog-teaser{ display:none; }
   border-bottom:1px solid var(--fg);
   text-decoration:none;
   opacity:.8;
+  color: var(--fg);
 }
+
 .archive-link:hover{ opacity:1; }
