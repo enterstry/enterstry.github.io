@@ -224,15 +224,15 @@ section, h2, h3 {
 /* Weiterlesen-Link schlicht */
 .blog-read a{
   font-size: 14px;
-  border-bottom: 1px solid var(--fg);
-  color: var(--fg);
-  opacity: .9;
+  color: var(--muted);
+  border-bottom: none;
   text-decoration: none;
+  opacity: .9;
 }
 
 .blog-read a:hover{
+  color: var(--fg);
   opacity: 1;
-  text-decoration: none;
 }
 
 /* ================= Blog Post Layout ================= */
