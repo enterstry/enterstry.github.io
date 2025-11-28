@@ -69,8 +69,9 @@ So entsteht kein „Go-Live“ – sondern ein Projekt, das wirklich greift.
 
 ## ▦ Strukturfeld III – Führungsfähigkeit vermitteln
 ---
+
 **Ich vermittle strukturelle Führung.**  
-In Workshops, Schulungen und gemeinsamen Klärungsformaten.
+In Workshops, Schulungen und klärenden Führungsformaten.
 
 Ich befähige Teams und Entscheider,
 Führung im technischen System und im technischen Projekt selbst handlungsfähig zu halten.
@@ -79,19 +80,25 @@ Führung im technischen System und im technischen Projekt selbst handlungsfähig
 <h2 id="wie-ich-arbeite">⧉ Wie ich arbeite</h2>
 ---
 
-Ich arbeite nicht mit festgelegten Werkzeugen – sondern mit Sprache, Struktur und systemischer Führung. Was ich tue, lässt sich in drei Schritten beschreiben:
+**Ich arbeite nicht mit festgelegten Werkzeugen.**  
+Ich arbeite mit Sprache, Struktur und systemischer Führung.  
+Was ich tue, lässt sich in drei Schritten beschreiben:
 
 **1. Diagnose – wenn alles da ist, aber nichts greift.**<br>
-Wenn Projekte oder Organisationen geplant sind, aber nicht in Gang kommen. Oder wenn alles läuft – aber intern niemand führt. Ich kläre, wo Entscheidungen fehlen – und was verhindert, dass Struktur greift. 
+Wenn Projekte oder Organisationen geplant sind, aber nicht in Gang kommen.   
+Oder wenn alles läuft – aber intern niemand führt.   
+Ich kläre, wo Entscheidungen fehlen – und was verhindert, dass Struktur greift. 
 <br>
 
 **2. Struktur & Begleitung – wenn Richtung da ist, aber Rhythmus fehlt.** <br>
-Ich begleite Organisationen, die wissen, wo sie hinwollen – aber keine innere Ordnung haben, um dorthin zu kommen.
+Ich begleite Organisationen, die wissen, wo sie hinwollen   
+aber keine innere Ordnung haben, um dorthin zu kommen.     
 Nicht als Berater – sondern als strukturgebende Präsenz.  
 <br>
 
 **3. Übergabe & Verstärkung – wenn Systeme wieder selbst führen.** <br>
-In dieser Phase wird Führungsfähigkeit aufgebaut – strukturell, sprachlich, entscheidungsklar. Hier vermittle ich das, was ich zuvor gehalten habe – damit Organisationen Führung selbst tragen können.
+In dieser Phase wird Führungsfähigkeit aufgebaut – strukturell, sprachlich, entscheidungsklar.    
+Hier vermittle ich das, was ich zuvor gehalten habe – damit Organisationen Führung selbst tragen können.
 <br>
 
 
@@ -100,9 +107,12 @@ In dieser Phase wird Führungsfähigkeit aufgebaut – strukturell, sprachlich, 
 
 **Ich arbeite in drei Strukturfeldern:**  
 
-- **Strukturfeld I:** Ich übernehme strukturelle Führung dort, wo Technik bereit ist – aber innere Autorität fehlt.
-- **Strukturfeld II:** Ich halte Führung in Projekten, die extern getrieben werden, aber intern niemand strukturell gegenhält.
-- **Strukturfeld III:** Ich befähige Teams und Entscheider, strukturelle Führung selbst zu halten.
+- **Strukturfeld I:** Ich übernehme strukturelle Führung dort,   
+wo Technik bereit ist – aber innere Autorität fehlt.
+- **Strukturfeld II:** Ich halte Führung in Projekten,  
+die extern getrieben werden, aber intern niemand strukturell gegenhält.
+- **Strukturfeld III:** Ich befähige Teams und Entscheider,  
+strukturelle Führung selbst zu halten.
 
 Preise und Umfang definieren wir gemeinsam –  
 nach Lage, Wirkung und Verantwortung.
