@@ -160,7 +160,8 @@ section, h2, h3 {
 .lead{
   font-size:clamp(18px,2.8vw,28px);
   max-width:30ch;
-  color:var(--muted);
+  /* color:var(--muted); */
+  color: #333;
 }
 
 /* ================= Shared Blog / Archiv Styles (FreeData + Enterstry) ================= */
