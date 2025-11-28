@@ -4,7 +4,16 @@ header_pages: []
 markdown: kramdown
 theme: minima #classic
 
+plugins:
+  - jekyll-paginate
+
+excerpt_separator: "<!--more-->"
+paginate: 2
+paginate_path: "/blog/page:num/"
+permalink: /:categories/:title/
+
 minima:
   skin: classic
   include_css:
     - /assets/css/custom.css
+

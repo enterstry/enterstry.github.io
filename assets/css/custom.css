@@ -18,3 +18,233 @@ p {
 section, h2, h3 {
   scroll-margin-top: 80px;
 }
+
+/* Mobile */
+@media (max-width: 640px){
+  .topnav-inner { padding: 10px 14px; }
+  .topnav-links { gap: 12px; }
+  .topnav-links a { font-size: .9rem; }
+}
+
+
+.divider-small{border:0;border-top:1px solid var(--line);margin:12px 0}
+.hero{min-height:92svh;display:grid;align-content:center;gap:28px}
+.lead{font-size:clamp(18px,2.8vw,28px);max-width:30ch;color:var(--muted)}
+
+
+/* ================= Compact Blog List ================= */
+
+blog-teaser{ display:none; }
+
+.blog-list{
+  display: grid;
+  gap: 0; /* keine Kartenabstände mehr */
+}
+
+/* Ein Eintrag = eine Zeile mit Trenner */
+.blog-row{
+  padding: 18px 0 20px 0;
+  border-bottom: 1px solid var(--line);
+  display: grid;
+  gap: 8px;
+}
+
+/* Kopfzeile: Titel links, Datum rechts */
+.blog-row-head{
+  display: grid;
+  grid-template-columns: 1fr auto;
+  align-items: baseline;
+  gap: 16px;
+}
+
+/* Titel links dominant */
+.blog-title{
+  margin: 0;
+  font-size: clamp(20px,3vw,28px);
+  line-height: 1.15;
+}
+.blog-title a{
+  color: var(--fg);
+  border-bottom: 0;
+  text-decoration: none;
+}
+
+/* Datum rechts klein & ruhig */
+.blog-date{
+  font-size: 12px;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: .12em;
+  white-space: nowrap;
+  text-align: right;
+}
+
+/* Teaser */
+.blog-excerpt{
+  margin: 0;
+  color: var(--muted);
+  font-size: 16px;
+  line-height: 1.55;
+  max-width: 100ch;
+}
+
+/* Weiterlesen-Link schlicht */
+.blog-read a{
+  font-size: 14px;
+  border-bottom: 1px solid var(--fg);
+  color: var(--fg);
+  opacity: .9;
+}
+.blog-read a:hover{ opacity: 1; }
+
+
+/* ================= Blog Post Layout ================= */
+
+.post-header{
+  margin-bottom: 24px;
+  display: grid;
+  gap: 4px;
+}
+
+.post-title{
+  margin: 0;
+  font-size: clamp(20px,3vw,28px);
+  line-height: 1.15;
+  color: var(--fg);
+}
+
+.post-meta{
+  font-size: 13px;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: .12em;
+}
+
+.post-content{
+  display: grid;
+  gap: 18px;
+  font-size: 18px;
+  line-height: 1.6;
+  max-width: 100ch;
+}
+
+/* ================= Pager ================= */
+
+/* Pager zentriert + feste Reihenfolge */
+.pager{
+  display:flex;
+  justify-content:center;   /* <<< zentriert */
+  margin-top:24px;
+}
+
+.pager-left{
+  display:flex;
+  gap:12px;
+  align-items:center;
+}
+
+/* Pills wie Year-Nav */
+.pager-pill{
+  border:1px solid var(--line);
+  padding:6px 12px;
+  border-radius:999px;
+  text-decoration:none;
+  color:var(--fg);
+  opacity:.75;
+  font-size:14px;
+}
+
+.pager-pill:hover{ opacity:1; }
+
+.pager-archive{
+  opacity:1;
+  font-weight:600;
+  border-color: var(--fg);
+}
+
+.lead .pager-pill {
+  font-size: 13px;
+  padding:5px 10px;
+}
+
+/* ================= Jahres-Nav ================= */
+
+.year-nav{
+  display:flex;
+  flex-wrap:wrap;
+  gap:10px;
+  margin:0 0 18px 0;
+  font-size:13px;
+}
+.year-nav a{
+  border:1px solid var(--line);
+  padding:6px 10px;
+  border-radius:999px;
+  text-decoration:none;
+  color:var(--fg);
+  opacity:.85;
+}
+.year-nav a:hover{ opacity:1; }
+
+.year-head{
+  margin:28px 0 10px 0;
+  font-size:18px;
+  letter-spacing:.08em;
+  text-transform:uppercase;
+  color:var(--muted);
+}
+
+/* Year nav pills */
+.year-nav{
+  display:flex;
+  flex-wrap:wrap;
+  gap:10px;
+  margin:0 0 18px 0;
+  font-size:13px;
+  margin-top: 15px;
+}
+
+.year-nav a{
+  border:1px solid var(--line);
+  padding:6px 10px;
+  border-radius:999px;
+  text-decoration:none;
+  color:var(--fg);
+  opacity:.75;
+  transition:opacity .15s ease, border-color .15s ease;
+}
+
+.year-nav a:hover{ opacity:1; }
+
+/* Active year via :target */
+/* Wenn ein Jahr "angesteuert" wird, highlight den passenden Nav-Link */
+.year-archive .year-head:target{
+  scroll-margin-top: 80px; /* damit Kopf nicht unter Nav klebt */
+}
+
+.year-nav a.is-active{
+  opacity:1;
+  font-weight:600;
+  border-color: var(--fg);
+}
+
+/* Pure CSS highlight des aktiven Jahres */
+.year-archive .year-head:target::after{
+  content:"";
+  display:block;
+  margin-top:8px;
+  height:2px;
+  width:42px;
+  background: var(--fg);
+  opacity:.9;
+}
+
+/* ================= Archiv-link ================= */
+
+.archive-link{
+  font-size:14px;
+  border-bottom:1px solid var(--fg);
+  text-decoration:none;
+  opacity:.8;
+}
+.archive-link:hover{ opacity:1; }
