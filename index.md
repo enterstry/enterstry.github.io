@@ -10,8 +10,8 @@ permalink: /
 Ich stabilisiere technische Projekte und Organisationen, wenn interne Führung ausfällt. Ich kläre Rollen, entlaste Entscheider und halte Projekte handlungsfähig – besonders dort, wo externe Partner treiben, aber intern niemand strukturell führt.
 
 
-**Was ich tue, nennen andere Beratung.<br> 
-Ich nenne es: Wirkung durch Struktur.**
+**Was ich tue, ist keine Beratung.**  
+**Es ist strukturelle Führung.**
 
 Projekte starten. Entscheidungen bleiben aus.
 <br>Technisch ist alles vorbereitet – aber niemand führt. Ich werde nicht geholt, wenn alles läuft – sondern wenn Entscheidungen zirkulieren, Führung ausbleibt und Projekte drohen zu kippen.
