@@ -5,7 +5,7 @@ layout: page_no_title
 permalink: /
 ---
 
-# Systemische Klarheit – wenn Technik greift, aber Führung fehlt
+# Systemische Klarheit – <br>wenn Technik greift, aber Führung fehlt
 ---
 
 **Ich stabilisiere technische Projekte und Organisationen, wenn interne Führung versagt.** Ich kläre Rollen, entlaste Entscheider und halte Projekte handlungsfähig – besonders dort, wo externe Partner treiben, aber intern keine strukturelle Autorität wirkt.
