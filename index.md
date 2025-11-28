@@ -11,12 +11,12 @@ permalink: /
 **Ich stabilisiere technische Projekte und Organisationen, wenn interne Führung versagt.** Ich kläre Rollen, entlaste Entscheider und halte Projekte handlungsfähig – besonders dort, wo externe Partner treiben, aber intern keine strukturelle Autorität wirkt.
 
 Projekte starten. Entscheidungen stocken.  
-Technisch ist alles vorbereitet – aber niemand verantwortet die Richtung.
-Ich werde nicht geholt, wenn alles läuft – sondern wenn Orientierung fehlt und Projekte drohen zu kippen.
+Technik ist bereit – aber niemand setzt den Rahmen.
+Ich werde nicht geholt, wenn alles läuft – sondern wenn Orientierung fehlt – und Projekte instabil werden.
 
 Ich begleite Organisationen im Mittelstand –
-dort, wo Voraussetzungen geschaffen sind, aber keine innere Ordnung entsteht.
-Wo ERP-Systeme, Prozesse und Methoden vorhanden sind –
+dort, wo Voraussetzungen geschaffen sind, aber keine innere Orientierung entsteht.
+Dort, wo ERP-Systeme, Prozesse und Methoden vorhanden sind –
 aber Zuständigkeiten wandern und Entscheidungen ihre Wirkung verlieren.
 
 ***Ich arbeite als Strukturgeber in Organisationen und Projekten,  
@@ -125,7 +125,7 @@ Strukturgebende Intervention im laufenden Projekt:<br>
 
 - ***Begleit-Modell***<br>
 Strategische Führung auf Zeit – im Inneren der Organisation.<br>
-*Ich wirke als systemischer Gegenpart, wenn Dienstleister, Werkzeuge oder Implementierungspartner extern treiben – aber intern keine Ordnung greift.*
+*Ich wirke als systemischer Gegenpart, wenn Dienstleister, Werkzeuge oder Implementierungspartner extern treiben – aber intern keine Struktur greift.*
 
 - ***Korrektur-Modell***<br>
 Wenn Strukturen kippen, aber noch rettbar sind. <br>
