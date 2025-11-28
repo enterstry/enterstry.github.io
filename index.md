@@ -70,7 +70,7 @@ So entsteht kein „Go-Live“ – sondern ein Projekt, das wirklich greift.
 <h2 id="wie-ich-arbeite">⧉ Wie ich arbeite</h2>
 ---
 
-Ich arbeite nicht mit Werkzeugen – sondern mit Sprache, Struktur und systemischer Führung. Was ich tue, lässt sich in drei Schritten beschreiben:
+Ich arbeite nicht mit festgelegten Werkzeugen – sondern mit Sprache, Struktur und systemischer Führung. Was ich tue, lässt sich in drei Schritten beschreiben:
 
 **1. Diagnose – wenn alles da ist, aber nichts greift.**<br>
 Wenn Projekte oder Organisationen geplant sind, aber nicht in Gang kommen. Oder wenn alles läuft – aber intern keiner führt. Ich kläre, wo Entscheidungen fehlen – und was verhindert, dass Struktur greift. 
