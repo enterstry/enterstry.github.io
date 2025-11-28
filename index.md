@@ -37,7 +37,7 @@ _Geschäftsführer – Enterstry GmbH_
 ## ▨ Strukturfeld I – Technische Führung im System
 ---
 
-Technik ist da. Dienstleister treiben. Doch intern führt niemand.
+**Technik ist da. Dienstleister treiben. Doch intern führt niemand.**
 
 Ich übernehme nicht das Projekt – sondern die strukturelle Verantwortung, die oft fehlt, wenn technische Lösungen eingeführt werden, aber keine Führung für sie existiert.
 
