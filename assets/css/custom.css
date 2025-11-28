@@ -261,6 +261,13 @@ blog-teaser{ display:none; }
   border-color: #000 !important;
 }
 
+.pager-pill,
+.pager-pill:hover,
+.pager-pill:focus,
+.pager-pill:active {
+  text-decoration: none !important;
+}
+
 .pager-archive{
   border-color:var(--fg);
   color:var(--fg);
