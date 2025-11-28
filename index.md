@@ -159,11 +159,13 @@ Gerne im Gespräch. <br>
 
 **Enterstry GmbH & Co. KG** <br>
 *Stefan Bergmann* <br>
+<br>
 *Pyrbaumer Weg 8a* <br>
 *90502 Schwarzenbruck, Germany* <br>
 *Deutschland* <br>
 
 📞 Telefon: +49 9183 277 3999 <br> 
-📱 Mobile: +49 162 42 86 180 <br> 
+📱 Mobile: +49 162 42 86 180 <br>
+<br> 
 📧 E-Mail: [kontakt@enterstry.de](mailto:kontakt@enterstry.de) <br>
 🌐 Website: [www.enterstry.de](https://www.enterstry.de) <br>
