@@ -242,29 +242,26 @@ blog-teaser{ display:none; }
 
 /* Pills wie Year-Nav */
 .pager-pill{
+  display:inline-block;
+  padding:6px 14px;
+  border-radius:20px;
+  background:#fff;
   border:1px solid var(--line);
-  padding:6px 12px;
-  border-radius:999px;
   text-decoration:none;
-  color:var(--fg);
-  opacity:.75;
   font-size:14px;
+  color:var(--fg);
+  margin:0 6px;
+  white-space:nowrap;
 }
 
-.pager-pill,
-.pager-pill:visited {
-  color: var(--fg) !important;
-}
-
-.pager-pill:hover {
-  color: #000 !important;
-  border-color: #000 !important;
+.pager-pill:hover{
+  border-color:#000;
+  color:#000;
 }
 
 .pager-archive{
-  opacity:1;
-  font-weight:600;
-  border-color: var(--fg);
+  border-color:var(--fg);
+  color:var(--fg);
 }
 
 .lead .pager-pill {
