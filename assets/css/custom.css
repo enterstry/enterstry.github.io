@@ -1,10 +1,22 @@
 :root{
   --fg: #111;      /* Haupttextfarbe */
-  --muted: #666;   /* gedämpfte Texte, Teaser, Datum */
-  --line: #ddd;    /* Linien, Rahmen */
+  --muted: #666;   /* Texte, Teaser, Datum ... */
+  --line: #ddd;    /* Linien, Rahmen, usw. */
 }
 
-/* Layout Header */
+/* ================= Basisset Links ================= */
+
+a{
+  color: var(--fg);
+  text-decoration: none;
+}
+
+a:hover{
+  text-decoration: underline;
+}
+
+/* ================= Layout Header ================= */
+
 .site-header {
   position: sticky;
   top: 0;
@@ -19,7 +31,7 @@
   align-items: center;
   max-width: 1000px;
   margin: 0 auto;
-  padding: 5px;
+  padding: 8px 16px;
 }
 
 .site-logo a {
@@ -36,11 +48,11 @@
   height: 30px;
 }
 
-/* Navigation im Header – falls noch nicht definiert */
+/* Navigation im Header */
 .site-nav .nav-link {
   margin-left: 1.2rem;
   text-decoration: none;
-  color: #333;
+  color: #555;
   font-size: 0.95rem;
 }
 
@@ -48,17 +60,18 @@
   margin-left: 0;
 }
 
-/* Footer */
-
-.site-footer a,
-.site-footer a:visited {
-  color: #333 !important;
-  text-decoration: none !important;
+.site-nav .nav-link:hover{
+  text-decoration: none;
+  color: #000;
 }
 
-.site-footer a:hover {
-  color: #000 !important;
+/* Fokus-Sichtbarkeit für Navigation */
+.site-nav .nav-link:focus-visible {
+  outline: 2px solid #000;
+  outline-offset: 2px;
 }
+
+/* ================= Footer ================= */
 
 .site-footer {
   background-color: #f8f8f8;
@@ -76,34 +89,35 @@
   margin-top: 0.5rem;
 }
 
+.site-footer a,
+.site-footer a:visited {
+  color: #333 !important;
+  text-decoration: none !important;
+}
+
+.site-footer a:hover {
+  color: #000 !important;
+  text-decoration: none !important;
+}
+
 .footer-link {
   margin-right: 1rem;
-  text-decoration: none;
-  color: #333;
 }
 
 .footer-link:last-child {
   margin-right: 0;
 }
 
+/* ================= Typografie & Abstände ================= */
 
 h2, h3, h4 {
-  margin-top: 2rem; 
-  margin-bottom: 1rem; 
-  /*font-weight: bold;*/
-  /*color: darkred; */ 
+  margin-top: 2rem;
+  margin-bottom: 1rem;
 }
-
-.nav-link {
-  margin-left: 1.5rem;
-  color: #555;
-  text-decoration: none;
-}
-
 
 hr {
-  margin-top: -0.5rem;   /* weniger Abstand nach oben */
-  margin-bottom: 1.5rem;  /* mehr Abstand nach unten */
+  margin-top: -0.5rem;
+  margin-bottom: 1.5rem;
   color: lightgray;
 }
 
@@ -115,26 +129,43 @@ section, h2, h3 {
   scroll-margin-top: 80px;
 }
 
-/* Mobile */
+/* ================= Mobile ================= */
+
 @media (max-width: 640px){
   .topnav-inner { padding: 10px 14px; }
   .topnav-links { gap: 12px; }
   .topnav-links a { font-size: .9rem; }
 }
 
+/* ================= Hero / Lead ================= */
 
-.divider-small{border:0;border-top:1px solid var(--line);margin:12px 0}
-.hero{min-height:92svh;display:grid;align-content:center;gap:28px}
-.lead{font-size:clamp(18px,2.8vw,28px);max-width:30ch;color:var(--muted)}
+.divider-small{
+  border:0;
+  border-top:1px solid var(--line);
+  margin:12px 0;
+}
 
+.hero{
+  min-height:92svh;
+  display:grid;
+  align-content:center;
+  gap:28px;
+}
 
-/* ================= Compact Blog List ================= */
+.lead{
+  font-size:clamp(18px,2.8vw,28px);
+  max-width:30ch;
+  color:var(--muted);
+}
 
-blog-teaser{ display:none; }
+/* ================= Shared Blog / Archiv Styles (FreeData + Enterstry) ================= */
+
+/* Optionales Element, falls verwendet */
+.blog-teaser{ display:none; }
 
 .blog-list{
   display: grid;
-  gap: 0; /* keine Kartenabstände mehr */
+  gap: 0; /* keine Kartenabstände */
 }
 
 /* Ein Eintrag = eine Zeile mit Trenner */
@@ -159,9 +190,14 @@ blog-teaser{ display:none; }
   font-size: clamp(20px,3vw,28px);
   line-height: 1.15;
 }
+
 .blog-title a{
   color: var(--fg);
   border-bottom: 0;
+  text-decoration: none;
+}
+
+.blog-title a:hover{
   text-decoration: none;
 }
 
@@ -190,9 +226,13 @@ blog-teaser{ display:none; }
   border-bottom: 1px solid var(--fg);
   color: var(--fg);
   opacity: .9;
+  text-decoration: none;
 }
-.blog-read a:hover{ opacity: 1; }
 
+.blog-read a:hover{
+  opacity: 1;
+  text-decoration: none;
+}
 
 /* ================= Blog Post Layout ================= */
 
@@ -226,10 +266,9 @@ blog-teaser{ display:none; }
 
 /* ================= Pager ================= */
 
-/* Pager zentriert + feste Reihenfolge */
 .pager{
   display:flex;
-  justify-content:center;   /* <<< zentriert */
+  justify-content:center;
   margin-top:24px;
 }
 
@@ -239,24 +278,25 @@ blog-teaser{ display:none; }
   align-items:center;
 }
 
-/* Pills wie Year-Nav */
+/* Pills */
 .pager-pill{
   display:inline-block;
   padding:6px 14px;
   border-radius:20px;
   background:#fff;
   border:1px solid var(--line);
-  text-decoration:none;
   font-size:14px;
   color:var(--fg);
   margin:0 6px;
   white-space:nowrap;
+  text-decoration: none;
 }
 
-.pager-pill:visited {
+.pager-pill:visited{
   color: var(--fg) !important;
 }
-.pager-pill:hover {
+
+.pager-pill:hover{
   color: #000 !important;
   border-color: #000 !important;
 }
@@ -264,8 +304,14 @@ blog-teaser{ display:none; }
 .pager-pill,
 .pager-pill:hover,
 .pager-pill:focus,
-.pager-pill:active {
+.pager-pill:active{
   text-decoration: none !important;
+}
+
+/* Fokus-Sichtbarkeit für Pager */
+.pager-pill:focus-visible{
+  outline: 2px solid #000;
+  outline-offset: 2px;
 }
 
 .pager-archive{
@@ -273,46 +319,19 @@ blog-teaser{ display:none; }
   color:var(--fg);
 }
 
-.lead .pager-pill {
+.lead .pager-pill{
   font-size: 13px;
   padding:5px 10px;
 }
 
-/* ================= Jahres-Nav ================= */
+/* ================= Jahres-Nav (Archiv) ================= */
 
 .year-nav{
   display:flex;
   flex-wrap:wrap;
   gap:10px;
-  margin:0 0 18px 0;
+  margin:15px 0 18px 0;
   font-size:13px;
-}
-.year-nav a{
-  border:1px solid var(--line);
-  padding:6px 10px;
-  border-radius:999px;
-  text-decoration:none;
-  color:var(--fg);
-  opacity:.85;
-}
-.year-nav a:hover{ opacity:1; }
-
-.year-head{
-  margin:28px 0 10px 0;
-  font-size:18px;
-  letter-spacing:.08em;
-  text-transform:uppercase;
-  color:var(--muted);
-}
-
-/* Year nav pills */
-.year-nav{
-  display:flex;
-  flex-wrap:wrap;
-  gap:10px;
-  margin:0 0 18px 0;
-  font-size:13px;
-  margin-top: 15px;
 }
 
 .year-nav a{
@@ -325,12 +344,28 @@ blog-teaser{ display:none; }
   transition:opacity .15s ease, border-color .15s ease;
 }
 
-.year-nav a:hover{ opacity:1; }
+.year-nav a:hover{
+  opacity:1;
+  text-decoration:none;
+}
 
-/* Active year via :target */
-/* Wenn ein Jahr "angesteuert" wird, highlight den passenden Nav-Link */
+/* Fokus-Sichtbarkeit für Jahresnavigation */
+.year-nav a:focus-visible{
+  outline: 2px solid #000;
+  outline-offset: 2px;
+}
+
+.year-head{
+  margin:28px 0 10px 0;
+  font-size:18px;
+  letter-spacing:.08em;
+  text-transform:uppercase;
+  color:var(--muted);
+}
+
+/* Ziel-Jahr + Highlight-Linie */
 .year-archive .year-head:target{
-  scroll-margin-top: 80px; /* damit Kopf nicht unter Nav klebt */
+  scroll-margin-top: 80px;
 }
 
 .year-nav a.is-active{
@@ -339,7 +374,6 @@ blog-teaser{ display:none; }
   border-color: var(--fg);
 }
 
-/* Pure CSS highlight des aktiven Jahres */
 .year-archive .year-head:target::after{
   content:"";
   display:block;
@@ -350,7 +384,7 @@ blog-teaser{ display:none; }
   opacity:.9;
 }
 
-/* ================= Archiv-link ================= */
+/* ================= Archiv-Link (Blog-Start oben) ================= */
 
 .archive-link{
   font-size:14px;
@@ -360,4 +394,13 @@ blog-teaser{ display:none; }
   color: var(--fg);
 }
 
-.archive-link:hover{ opacity:1; }
+.archive-link:hover{
+  opacity:1;
+  text-decoration:none;
+}
+
+/* Fokus-Sichtbarkeit für Archiv-Link */
+.archive-link:focus-visible{
+  outline: 2px solid #000;
+  outline-offset: 2px;
+}
