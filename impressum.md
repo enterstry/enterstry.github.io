@@ -9,8 +9,9 @@ permalink: /impressum/
  
 Angaben gemäß § 5 TMG
 
-**Enterstry GmbH & Co. KG** <br><br>
-Stefan Bergmann <br>
+**Enterstry GmbH & Co. KG** <br>
+Stefan Bergmann <br>  
+
 Pyrbaumer Weg 8a <br>
 90502 Schwarzenbruck, Germany <br>
 Deutschland <br>

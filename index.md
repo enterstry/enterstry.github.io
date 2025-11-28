@@ -7,22 +7,17 @@ permalink: /
 
 # Systemische Klarheit – wenn Organisationen technisch bereit sind, aber intern nicht greifen
 ---
-Ich stabilisiere technische Projekte und Organisationen, wenn interne Führung ausfällt. Ich kläre Rollen, entlaste Entscheider und halte Projekte handlungsfähig – besonders dort, wo externe Partner treiben, aber intern niemand strukturell führt.
 
-
-**Was ich tue, ist keine Beratung.**  
-**Es ist strukturelle Führung.**
+**Ich stabilisiere technische Projekte und Organisationen, wenn interne Führung ausfällt.** Ich kläre Rollen, entlaste Entscheider und halte Projekte handlungsfähig – besonders dort, wo externe Partner treiben, aber intern niemand strukturell führt.
 
 Projekte starten. Entscheidungen bleiben aus.
 <br>Technisch ist alles vorbereitet – aber niemand führt. Ich werde nicht geholt, wenn alles läuft – sondern wenn Entscheidungen zirkulieren, Führung ausbleibt und Projekte drohen zu kippen.
 <br>
-<br>
-**Ich bringe Struktur dorthin, wo technische Systeme keine Richtung haben.**
 
 Ich begleite Organisationen im Mittelstand –
 dort, wo Voraussetzungen geschaffen sind, aber Führung ausbleibt.
 Wo ERP-Systeme, Prozesse und Methoden vorhanden sind –
-aber Zuständigkeit zirkuliert, und Entscheidungen nicht greifen.
+aber Zuständigkeiten wandern und Entscheidungen nicht greifen.
 
 ***Ich arbeite als Strukturgeber in Organisationen und Projekten,
 die laufen sollen – aber keine klare Führung entfalten.***
@@ -39,30 +34,31 @@ _Strukturgeber für Organisationen und Projekte – wenn Führung fehlt_
 _Geschäftsführer – Enterstry GmbH_
 
 
-## ▨ Strukturfeld I – Technische Führung
+## ▨ Strukturfeld I – Technische Führung im System
 ---
 
 Technik ist da. Dienstleister treiben. Doch intern führt niemand.
 
 Ich übernehme nicht das Projekt – sondern die strukturelle Verantwortung, die oft fehlt, wenn technische Lösungen eingeführt werden, aber keine Führung für sie existiert.
 
-**Ich bin nicht CTO.** <br> 
-**Ich bin der strukturelle Gegenpart für technische Projekte.**
+**Ich bin nicht CTO.**   
+**Ich halte strukturelle Führung – über dem technischen System.**
 
 Ob ERP-Einführung, Cloud-Migration oder KI-Integration – technische Systeme greifen nur, wenn jemand intern Ordnung hält. Ich arbeite in technisch und regulatorisch dichten Umfeldern – dort, wo Entscheidungen nicht nur funktionieren, sondern tragen müssen.
 
 Ich halte Führung im Raum – dort, wo Dienstleister operieren, aber keine innere Autorität wirkt. Ich kläre, wer entscheidet – und wofür. Ich halte Technik handlungsfähig – ohne sie selbst zu machen. Ich stärke Strukturen – damit Systeme nicht von außen gesteuert werden müssen.
 
-## ▧ Strukturfeld II – Technisches Projekt
+
+## ▧ Strukturfeld II – Führung im technischen Projekt
 ---
 
-**Ich begleite nicht nur intern.**
+**Ich begleite nicht nur intern.**  
 
 Sondern oft auch als systemischer Gegenpart auf Kundenseite – wenn externe Partner ein technisch geprägtes Projekt führen: sei es ein Softwareanbieter, ein IT-Dienstleister oder ein Implementierungspartner.
 
 Dort, wo auf Lieferantenseite ein Projektmanager steht, fehlt auf Kundenseite häufig eine klare Führungsfigur für das interne System.
 
-Ich übernehme diese Rolle – nicht operativ, sondern strukturgebend:
+**Ich bin der strukturelle Gegenpart zum extern geführten Projekt – nicht operativ, sondern führungsgebend:**
 
 - Ich übersetze Technik in Entscheidung.
 - Ich halte Führung im Raum.
