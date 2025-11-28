@@ -39,7 +39,7 @@ _Strukturgeber für Organisationen und Projekte – wenn Führung fehlt_
 _Geschäftsführer – Enterstry GmbH_
 
 
-## ▨ Strukturfeld I – Technische Führung – systemisch verankert
+## ▨ Strukturfeld I – Technische Führung
 ---
 
 Technik ist da. Dienstleister treiben. Doch intern führt niemand.
@@ -53,7 +53,7 @@ Ob ERP-Einführung, Cloud-Migration oder KI-Integration – technische Systeme g
 
 Ich halte Führung im Raum – dort, wo Dienstleister operieren, aber keine innere Autorität wirkt. Ich kläre, wer entscheidet – und wofür. Ich halte Technik handlungsfähig – ohne sie selbst zu machen. Ich stärke Strukturen – damit Systeme nicht von außen gesteuert werden müssen.
 
-## ▧ Strukturfeld II – Technisches Projekt – systemisch begleitet
+## ▧ Strukturfeld II – Technisches Projekt
 ---
 
 **Ich begleite nicht nur intern.**
