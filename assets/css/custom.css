@@ -1,3 +1,76 @@
+/* Layout Header */
+.site-header {
+  position: sticky;
+  top: 0;
+  background: #fafafa;
+  border-bottom: 1px solid #e0e0e0;
+  z-index: 1000;
+}
+
+.site-header-inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 1rem 2rem;
+}
+
+.site-logo a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.logo-mark {
+  height: 25px;
+}
+
+.logo-wordmark {
+  height: 30px;
+}
+
+/* Navigation im Header – falls noch nicht definiert */
+.site-nav .nav-link {
+  margin-left: 1rem;
+  text-decoration: none;
+  color: #333;
+  font-size: 0.95rem;
+}
+
+.site-nav .nav-link:first-child {
+  margin-left: 0;
+}
+
+/* Footer */
+.site-footer {
+  padding: 2rem;
+  background-color: #f8f8f8;
+  text-align: center;
+  font-size: 0.9rem;
+  color: #666;
+  border-top: 1px solid #ddd;
+}
+
+.site-footer-nav {
+  margin: 0.5rem 0;
+}
+
+.site-footer-meta {
+  margin-top: 0.5rem;
+}
+
+.footer-link {
+  margin-right: 1rem;
+  text-decoration: none;
+  color: #333;
+}
+
+.footer-link:last-child {
+  margin-right: 0;
+}
+
+
 h2, h3, h4 {
   margin-top: 2rem; 
   margin-bottom: 1rem; 
