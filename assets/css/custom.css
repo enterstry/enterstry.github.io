@@ -5,8 +5,7 @@
 }
 
 .page-content{
-  padding-bottom: 100px;
-  padding-top: 12px;   /* vorher vermutlich ~32px */
+  padding-top: 12px;  
 }
 
 /* Ersten h1 auf der Seite etwas näher an den Header holen */
