@@ -61,7 +61,6 @@
 }
 
 .site-footer {
-  padding: 2rem;
   background-color: #f8f8f8;
   text-align: center;
   font-size: 0.9rem;
@@ -254,9 +253,12 @@ blog-teaser{ display:none; }
   white-space:nowrap;
 }
 
-.pager-pill:hover{
-  border-color:#000;
-  color:#000;
+.pager-pill:visited {
+  color: var(--fg) !important;
+}
+.pager-pill:hover {
+  color: #000 !important;
+  border-color: #000 !important;
 }
 
 .pager-archive{
