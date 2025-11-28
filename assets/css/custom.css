@@ -4,6 +4,10 @@
   --line: #ddd;    /* Linien, Rahmen, usw. */
 }
 
+.page-content{
+  padding-bottom: 120px;
+}
+
 /* ================= Basisset Links ================= */
 
 a{

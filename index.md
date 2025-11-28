@@ -149,7 +149,6 @@ Bewusstes Zurücktreten – strukturiert, nicht abrupt.<br>
 
 **Alle Formate beginnen mit einem Gespräch. <br> Nicht mit einem Angebot.**
 
-
 <h2 id="kontakt">▣ Kontakt</h2>
 ---
 
