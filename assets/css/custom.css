@@ -172,7 +172,7 @@ section, h2, h3 {
 /* Ein Eintrag = eine Zeile mit Trenner */
 .blog-row{
   padding: 18px 0 20px 0;
-  border-bottom: 1px solid var(--line);
+  border-bottom: 1px solid #eee; /* statt var(--line) = #ddd */
   display: grid;
   gap: 8px;
 }
