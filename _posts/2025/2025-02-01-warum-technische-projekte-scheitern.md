@@ -4,7 +4,7 @@ title: "Warum technische Projekte scheitern, obwohl alles vorbereitet ist"
 description: ""
 date: 2025-02-01
 theme: light
-state: published  # published/ draft / in-progress / hidden
+state: draft  # published/ draft / in-progress / hidden
 ---
 
 <blog-teaser>
