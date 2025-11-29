@@ -2,6 +2,7 @@
 title: Datenschutz
 layout: page_no_title
 permalink: /datenschutz/
+published: false
 ---
 
 # Datenschutzerklärung
