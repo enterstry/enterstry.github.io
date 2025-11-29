@@ -13,6 +13,8 @@
   margin-top: 12px;    /* statt 2rem */
 }
 
+.kicker{text-transform:uppercase;margin-bottom:5px;letter-spacing:.12em;font-size:12px;color:var(--muted)}
+
 /* ================= Basisset Links ================= */
 
 a{
@@ -171,10 +173,9 @@ section, h2, h3 {
 }
 
 .lead{
-  font-size:clamp(18px,2.8vw,24px);
+  font-size:clamp(18px,2.8vw,28px);
   max-width:30ch;
-  /* color:var(--muted); */
-  color: #333;
+  color:var(--muted)
 }
 
 /* ================= Shared Blog / Archiv Styles (FreeData + Enterstry) ================= */
