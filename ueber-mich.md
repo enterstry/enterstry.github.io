@@ -6,7 +6,7 @@ permalink: /ueber-mich/
 
 <img src="/assets/images/stefan.jpg" alt="Stefan Bergmann" style="max-width: 300px; float: right; margin-left: 2rem; border-radius: 6px;">
 
-## ◉ Was mich trägt
+# Was mich trägt
 ---
 
 Ich habe lange Zeit Systeme gebaut - bis ich begann, Organisationen bei ihrer Einführung und Gestaltung zu unterstützen.
