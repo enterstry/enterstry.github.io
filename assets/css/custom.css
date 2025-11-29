@@ -209,6 +209,7 @@ section, h2, h3 {
   margin: 0;
   font-size: clamp(20px,3vw,24px);
   line-height: 1.15;
+  font-weight: bold;
 }
 
 .blog-title a{
