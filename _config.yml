@@ -13,6 +13,7 @@ minima:
 
 plugins:
   - jekyll-paginate
+  - jekyll-sitemap
 
 excerpt_separator: "<!--more-->"
 paginate: 20
