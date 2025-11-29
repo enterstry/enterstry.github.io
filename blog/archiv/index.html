@@ -12,11 +12,9 @@ theme: light
 
 <hr class="divider-small"/>
 
-
 {%- assign published = site.posts | where: "state", "published" -%}
 {%- assign sorted = published | sort: "date" | reverse -%}
 {%- assign years = sorted | group_by_exp: "post", "post.date | date: '%Y'" -%}
-
 
 <nav class="year-nav">
   <a href="#all" data-year="all">Alle</a>
