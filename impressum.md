@@ -2,7 +2,6 @@
 title: Impressum
 layout: page_no_title
 permalink: /impressum/
-published: false
 ---
 
 # Impressum
