@@ -1,8 +1,10 @@
 title: Enterstry
 description: Systemische Klarheit für IT-nahe Organisationen
-header_pages: []
-markdown: kramdown
+
+url: "https://www.enterstry.de"  
+
 theme: minima #classic
+markdown: kramdown
 
 minima:
   skin: classic
