@@ -102,7 +102,7 @@ Hier vermittle ich das, was ich zuvor gehalten habe – damit Organisationen Fü
 <br>
 
 
-<h2 id="angebote-auf-einen-blick"> □ Angebote auf einen Blick</h2>
+<h2 id="angebote"> □ Angebote auf einen Blick</h2>
 ---
 
 **Ich arbeite in drei Strukturfeldern:**  
