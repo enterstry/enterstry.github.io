@@ -1,7 +1,6 @@
 ---
 title: Datenschutz
 layout: page_no_title
-permalink: /datenschutz/
 sitemap: false
 ---
 
