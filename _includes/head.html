@@ -1,9 +1,14 @@
 
 
 <title>{{ page.title }}</title>
+
+<!-- SEO-Basis-Metadaten -->
+<meta name="robots" content="index, follow">
 {% if page.description %}
   <meta name="description" content="{{ page.description | escape }}">
 {% endif %}
+<meta name="keywords" content="Organisationsberatung, Strukturgeber, Strukturarbeit, Führung, IT, Projekte, Open-Source, ERP, Mittelstand">
+<meta name="author" content="Stefan Bergmann">
 
 <link rel="canonical" href="{{ page.url | absolute_url }}">
 <link rel="icon" type="image/png" href="/assets/favicon.ico">
