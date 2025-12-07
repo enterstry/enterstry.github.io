@@ -1,6 +1,6 @@
 ---
 title: Systemische Klarheit für IT-nahe Organisationen
-description: "Ich bringe Struktur in technische Projekte, wenn Entscheidungen nicht greifen. Ich kläre Rollen, halte Führung im Raum und stabilisiere Bedingungen für wirksames Handeln."
+description: "Strukturgeber für technische Projekte im Mittelstand. Klärt Rollen, stabilisiert Führung, begleitet IT-nahe Organisationen in komplexen Projektlagen."
 layout: page_no_title
 permalink: /
 ---
