@@ -1,6 +1,6 @@
 ---
-title: Start
-description: Systemische Klarheit für IT-nahe Organisationen
+title: Systemische Klarheit für IT-nahe Organisationen
+description: "Ich bringe Struktur in technische Projekte, wenn Entscheidungen nicht greifen. Ich kläre Rollen, halte Führung im Raum und stabilisiere Bedingungen für wirksames Handeln."
 layout: page_no_title
 permalink: /
 ---

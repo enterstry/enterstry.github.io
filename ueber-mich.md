@@ -1,8 +1,8 @@
 ---
-title: Über mich
+title: Über mich – Stefan Bergmann
+description: "Über Stefan Bergmann – Strukturgeber für technische Projekte im Mittelstand."
 layout: page_no_title
 permalink: /ueber-mich/
-description: Über Stefan Bergmann – Strukturgeber für technische Projekte im Mittelstand.
 ---
 
 <img src="/assets/images/stefan.jpg" alt="Stefan Bergmann" style="max-width: 300px; float: right; margin-left: 2rem; border-radius: 6px;">
