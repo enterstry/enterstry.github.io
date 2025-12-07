@@ -1,6 +1,6 @@
 ---
 title: Systemische Klarheit für IT-nahe Organisationen
-description: "Strukturgeber für technische Projekte im Mittelstand. Klärt Rollen, stabilisiert Führung, begleitet IT-nahe Organisationen in komplexen Projektlagen."
+description: "Strukturgeber für ERP-, Cloud- und Software-Projekte im Mittelstand. Führt Projekte auf Kundenseite strukturell – in Zusammenarbeit mit IT-Dienstleistern."
 layout: page_no_title
 permalink: /
 ---
