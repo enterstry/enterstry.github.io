@@ -9,7 +9,7 @@ permalink: /ueber-mich/
 
 # Stefan Bergmann
 ---
-Ich bin Strukturgeber für technische Projekte im Mittelstand. Ich begleite ERP-, Cloud- und Software-Projekte auf Kundenseite – dort, wo Führung, Rollenklärung und Entscheidungsfähigkeit im technischen System fehlen.
+Ich bin Strukturgeber für technische Projekte im Mittelstand. Ich begleite ERP-, Cloud- und Software-Projekte auf Kundenseite – dort, wo Führung, Rollenklärung und Entscheidungen im technischen System fehlen.
 
 ## Was mich trägt
 ---
