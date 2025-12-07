@@ -5,12 +5,11 @@ layout: page_no_title
 permalink: /ueber-mich/
 ---
 
+<img src="/assets/images/stefan.jpg" alt="Stefan Bergmann" style="max-width: 300px; float: right; margin-left: 2rem; border-radius: 6px;">
+
 # Über mich – Stefan Bergmann
 ---
 Ich bin Strukturgeber für technische Projekte im Mittelstand. Ich begleite ERP-, Cloud- und Software-Projekte auf Kundenseite – dort, wo Führung, Rollenklärung und Entscheidungsfähigkeit im technischen System fehlen.
-
-
-<img src="/assets/images/stefan.jpg" alt="Stefan Bergmann" style="max-width: 300px; float: right; margin-left: 2rem; border-radius: 6px;">
 
 ## Was mich trägt
 ---
