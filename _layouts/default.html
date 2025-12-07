@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>{{ page.title }}</title>
+
+  <!-- SEO-Basis-Metadaten -->
+  <meta name="robots" content="index, follow">
+  {% if page.description %}
+    <meta name="description" content="{{ page.description | escape }}">
+  {% endif %}
+  <meta name="keywords" content="Organisationsberatung, Strukturgeber, Strukturarbeit, Führung, IT, Projekte, Open-Source, ERP, Mittelstand">
+  <meta name="author" content="Stefan Bergmann">
+
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <link rel="icon" type="image/png" href="/assets/favicon.ico">
+
+  {% if site.theme %}
+    <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+  {% endif %}
+  <link rel="stylesheet" href="/assets/css/custom.css">
+
+  <!-- Strukturierte Daten -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Enterstry GmbH & Co. KG",
+    "url": "https://www.enterstry.de",
+    "logo": "https://www.enterstry.de/assets/images/logo.png",
+    "description": "Systemische Klarheit für IT-nahe Organisationen im Mittelstand.",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Pyrbaumer Weg 8a",
+      "postalCode": "90502",
+      "addressLocality": "Schwarzenbruck",
+      "addressCountry": "DE"
+    },
+    "founder": "Stefan Bergmann"
+  }
+  </script>
+</head>
+
+<body>
+  {% include header.html %}
+  <main class="page-content" aria-label="Content">
+    <div class="wrapper">
+      {{ content }}
+    </div>
+  </main>
+  {% include footer.html %}
+</body>
+</html>

@@ -1,6 +1,6 @@
 ---
 title: Systemische Klarheit für IT-nahe Organisationen
-description: "Strukturgeber für ERP-, Cloud- und Software-Projekte im Mittelstand. Führt Projekte auf Kundenseite strukturell – in Zusammenarbeit mit IT-Dienstleistern."
+description: "Systemische Klarheit für IT-nahe Organisationen. Stefan Bergmann führt technische Projekte strukturell – dort, wo Dienstleister liefern, aber innere Ordnung fehlt."
 layout: page_no_title
 permalink: /
 ---
