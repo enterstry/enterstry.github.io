@@ -1,6 +1,6 @@
 ---
 title: Systemische Klarheit für IT-nahe Organisationen
-description: "Systemische Klarheit für IT-nahe Organisationen. Stefan Bergmann führt technische Projekte strukturell – dort, wo Dienstleister liefern, aber innere Ordnung fehlt."
+description: "Beratung und Strukturarbeit für IT-nahe Organisationen im Mittelstand. Führung und Rollenklärung in Projekten – wenn Technik greift, aber Orientierung fehlt."
 layout: page_no_title
 permalink: /
 ---
