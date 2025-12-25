@@ -69,6 +69,7 @@ a:hover{
   height: 25px;
 }
 
+
 /* Navigation im Header */
 .site-nav .nav-link {
   margin-left: 1.1rem;
@@ -167,6 +168,15 @@ section, h2, h3 {
   .topnav-links a { font-size: .9rem; }
   .site-logo {padding-top: 5px; }
   .nav-link {font-size: 0.80rem;}
+
+  .about-image {
+    display: block;
+    margin: 1.5rem auto 2.5rem auto;
+    max-width: 85%;
+  }
+  .about-image + h1 {
+    margin-top: 2rem;
+  }
 
   .site-header {
     padding: 0.75rem 1rem;

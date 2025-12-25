@@ -5,7 +5,7 @@ layout: page_no_title
 permalink: /ueber-mich/
 ---
 
-<img src="/assets/images/stefan.jpg" alt="Stefan Bergmann" style="max-width: 300px; float: right; margin-left: 2rem; border-radius: 6px;">
+<img class="about-image" src="/assets/images/stefan.jpg" alt="Stefan Bergmann" style="max-width: 250px; float: right; margin-left: 2rem; border-radius: 6px;">
 
 # Über mich
 ---
