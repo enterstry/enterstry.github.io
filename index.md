@@ -14,7 +14,9 @@ Ich kläre Rollen, entlaste Entscheider und halte Projekte handlungsfähig – b
 
 Technik ist bereit. Projekte starten. Doch Entscheidungen greifen nicht. Ich arbeite mit Organisationen im Mittelstand, in denen Systeme, Prozesse und Methoden vorhanden sind – aber keine innere Ordnung entsteht, die Entscheidungen trägt.
 
-**Ich arbeite als Strukturgeber dort, wo Projekte laufen sollen – aber keine klare Richtung entfalten.** Nicht mit Werkzeugen. Sondern mit Sprache, Haltung und systemischer Klarheit.
+**Ich arbeite als Strukturgeber dort,**     
+**wo Projekte laufen sollen – aber**  
+**keine klare Richtung entfalten.** 
 
 ***Stefan Bergmann*** <br>
 _Geschäftsführer der Enterstry GmbH_  
