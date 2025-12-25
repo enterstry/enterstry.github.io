@@ -19,9 +19,8 @@ Technik ist bereit. Projekte starten. Doch Entscheidungen greifen nicht. Ich arb
 **keine klare Richtung entfalten.** 
 
 ***Stefan Bergmann*** <br>
-_Geschäftsführer der Enterstry GmbH_  
-_Strukturgeber für Organisationen und Projekte – wenn Führung fehlt_  
-
+Geschäftsführer der Enterstry GmbH  
+_Strukturgeber für Führung, Organisation und Projekte_
 
 ## Strukturfeld I – Technische Führung im System
 ---
