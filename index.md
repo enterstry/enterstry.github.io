@@ -85,8 +85,8 @@ in eine Organisation:
 Ich bin ansprechbar.   
 Gerne im Gespräch.  
 
-**Enterstry GmbH & Co. KG** <br>
-*Stefan Bergmann* <br>
+**Stefan Bergmann** <br>
+Enterstry GmbH & Co. KG <br>
 <br>
 *Pyrbaumer Weg 8a* <br>
 *90502 Schwarzenbruck, Germany* <br>
