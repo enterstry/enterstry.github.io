@@ -1,5 +1,5 @@
 ---
-title: Systemische Klarheit für IT-nahe Organisationen
+title: Enterstry – Systemische Klarheit für IT-nahe Organisationen
 description: "Beratung und Strukturarbeit für IT-nahe Organisationen im Mittelstand. Führung und Rollenklärung in Projekten – wenn Technik greift, aber Orientierung fehlt."
 layout: page_no_title
 permalink: /
