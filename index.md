@@ -45,7 +45,8 @@ Ich kläre, wer entscheidet und wofür. Ich halte Führung im Raum, ohne operati
 
 Wenn externe Partner ein technisch geprägtes Projekt führen, steht auf Lieferantenseite meist ein Projektmanager bereit. Auf Kundenseite fehlt jedoch häufig eine klare Führungsfigur für das interne System.
 
-**Ich bin der strukturelle Gegenpart zum extern geführten Projekt.**  
+**Ich bin der strukturelle Gegenpart zum extern geführten Projekt.**
+
 Nicht operativ, sondern führungsgebend:
 
 - Ich übersetze Technik in Entscheidung.  
@@ -63,30 +64,15 @@ So entsteht kein reines „Go-Live“, sondern ein Projekt, das tatsächlich gre
 In Workshops, Schulungen und klärenden Führungsformaten. Ich befähige Teams und Entscheider, Führung im technischen System und im technischen Projekt selbst zu tragen.
 
 
-<h2 id="wie-ich-arbeite">Wie ich arbeite</h2>
----
-
-**Ich arbeite nicht mit festgelegten Werkzeugen.**  
-
-Ich arbeite mit Sprache, Struktur und systemischer Führung. Mein Vorgehen lässt sich in drei Schritte fassen:
-
-**1. Diagnose – wenn alles da ist, aber nichts greift.**  
-Ich kläre, wo Entscheidungen fehlen und welche Strukturen verhindern, dass Orientierung wirksam wird.
-
-**2. Struktur & Begleitung – wenn Richtung vorhanden ist, aber Ordnung fehlt.**  
-Ich begleite Organisationen nicht beratend, sondern als strukturgebende Präsenz.
-
-**3. Übergabe & Verstärkung – wenn Systeme wieder selbst führen.**  
-Ich übertrage Führungsfähigkeit dorthin, wo sie künftig intern getragen werden soll.
-
 <h2 id="angebote">Angebote auf einen Blick</h2>
 ---
 
-**Ich arbeite in drei Strukturfeldern:**  
-
-- **Strukturfeld I:** Strukturelle Führung dort, wo Technik bereit ist, aber innere Autorität fehlt.
-- **Strukturfeld II:** Führung in Projekten, die extern getrieben werden, ohne dass intern jemand strukturell gegenhält.
-- **Strukturfeld III:** Befähigung von Teams und Entscheidern, strukturelle Führung selbst zu halten.
+- **Strukturfeld I:**   
+Strukturelle Führung dort, wo Technik bereit ist, aber innere Autorität fehlt.
+- **Strukturfeld II:**   
+Führung in Projekten, die extern getrieben werden, ohne dass intern jemand strukturell gegenhält.
+- **Strukturfeld III:**  
+Befähigung von Teams und Entscheidern, strukturelle Führung selbst zu halten.
 
 Preise und Umfang definieren wir gemeinsam – nach Lage, Wirkung und Verantwortung. Alles beginnt mit einem Gespräch. Nicht mit einem Angebot.
 
