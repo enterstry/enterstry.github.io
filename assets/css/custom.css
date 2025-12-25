@@ -156,10 +156,12 @@ section, h2, h3 {
 
 /* ================= Mobile ================= */
 
-@media (max-width: 640px){
+@media (max-width: 640px) {
   .topnav-inner { padding: 10px 14px; }
   .topnav-links { gap: 12px; }
   .topnav-links a { font-size: .9rem; }
+  .site-nav { top: -1px; border: 0px; background-color: transparent; } 
+  .site-logo {padding-top: 10px; }
 }
 
 /* ================= Hero / Lead ================= */
