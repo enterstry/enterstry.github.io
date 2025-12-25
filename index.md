@@ -34,7 +34,7 @@ _Strukturgeber für Organisationen und Projekte – wenn Führung fehlt_
 _Geschäftsführer – Enterstry GmbH_
 
 
-## ▨ Strukturfeld I – Technische Führung im System
+## Strukturfeld I – Technische Führung im System
 ---
 
 **Technik ist da. Dienstleister treiben. Doch intern führt niemand.**
@@ -49,7 +49,7 @@ Ob ERP-Einführung, Cloud-Migration oder KI-Integration – technische Systeme g
 Ich halte Führung im Raum – dort, wo Dienstleister operieren, aber keine innere Autorität wirkt. Ich kläre, wer entscheidet – und wofür. Ich halte Technik handlungsfähig – ohne sie selbst zu machen. Ich stärke Strukturen – damit Systeme nicht von außen gesteuert werden müssen.
 
 
-## ▧ Strukturfeld II – Führung im technischen Projekt
+## Strukturfeld II – Führung im technischen Projekt
 ---
 
 **Ich begleite nicht nur intern.**  
@@ -67,7 +67,7 @@ Dort, wo auf Lieferantenseite ein Projektmanager steht, fehlt auf Kundenseite h�
 So entsteht kein „Go-Live“ – sondern ein Projekt, das wirklich greift.
 
 
-## ▦ Strukturfeld III – Führungsfähigkeit vermitteln
+## Strukturfeld III – Führungsfähigkeit vermitteln
 ---
 
 **Ich vermittle strukturelle Führung.**  
@@ -77,7 +77,7 @@ Ich befähige Teams und Entscheider,
 Führung im technischen System und im technischen Projekt selbst handlungsfähig zu halten.
 
 
-<h2 id="wie-ich-arbeite">⧉ Wie ich arbeite</h2>
+<h2 id="wie-ich-arbeite">Wie ich arbeite</h2>
 ---
 
 **Ich arbeite nicht mit festgelegten Werkzeugen.**  
@@ -102,7 +102,7 @@ Hier vermittle ich das, was ich zuvor gehalten habe – damit Organisationen Fü
 <br>
 
 
-<h2 id="angebote"> □ Angebote auf einen Blick</h2>
+<h2 id="angebote">Angebote auf einen Blick</h2>
 ---
 
 **Ich arbeite in drei Strukturfeldern:**  
@@ -119,7 +119,7 @@ nach Lage, Wirkung und Verantwortung.
 
 Alles beginnt mit einem Gespräch. Nicht mit einem Angebot.
 
-<h2 id="kontakt">▣ Kontakt</h2>
+<h2 id="kontakt">Kontakt</h2>
 ---
 
 Wenn Sie Ordnung in ein Projekt bringen möchten – <br>
