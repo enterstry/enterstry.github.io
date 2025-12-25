@@ -107,8 +107,7 @@ Preise und Umfang definieren wir gemeinsam – nach Lage, Wirkung und Verantwort
 ---
 
 Wenn Sie Ordnung in ein Projekt bringen möchten – oder Struktur in eine Organisation: <br>
-Ich bin ansprechbar. <br>
-Gerne im Gespräch. <br>
+Ich bin ansprechbar. Gerne im Gespräch. <br>
 <br>
 **Enterstry GmbH & Co. KG** <br>
 *Stefan Bergmann* <br>
