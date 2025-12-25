@@ -30,6 +30,7 @@ a:hover{
 
 .site-header {
   position: sticky;
+  border-top:0px;
   top: 0;
   background: #fafafa;
   border-bottom: 1px solid #e0e0e0;
