@@ -8,7 +8,7 @@ permalink: /
 # Wenn Technik greift – aber Führung fehlt
 ---
 
-**Ich stabilisiere technische Projekte und Organisationen, wenn interne Führung versagt.**  
+**Ich stabilisiere technische Projekte und Organisationen, wenn Führung intern nicht greift.**  
 
 Ich kläre Rollen, entlaste Entscheider und halte Projekte handlungsfähig – besonders dort, wo externe Partner operieren, aber intern keine strukturelle Autorität wirkt.
 
@@ -69,11 +69,11 @@ In Workshops, Schulungen und klärenden Führungsformaten. Ich befähige Teams u
 - **Strukturfeld I:**   
 Strukturelle Führung dort, wo Technik bereit ist, aber innere Autorität fehlt.
 - **Strukturfeld II:**   
-Führung in Projekten, die extern getrieben werden, ohne dass intern jemand strukturell gegenhält.
+Führung in Projekten, die extern getrieben werden, ohne dass intern strukturell gegengehalten wird.
 - **Strukturfeld III:**  
-Befähigung von Teams und Entscheidern, strukturelle Führung selbst zu halten.
+Befähigung von Teams und Entscheidern, strukturelle Führung selbst zu tragen.
 
-Preise und Umfang definieren wir gemeinsam – nach Lage, Wirkung und Verantwortung. Alles beginnt mit einem Gespräch. Nicht mit einem Angebot.
+Preise und Umfang klären wir im Gespräch - nach Lage, Wirkung und Verantwortung. 
 
 <h2 id="kontakt">Kontakt</h2>
 ---

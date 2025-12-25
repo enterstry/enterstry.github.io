@@ -4,6 +4,10 @@
   --line: #ddd;    /* Linien, Rahmen, usw. */
 }
 
+body {
+  background-color: #f9f9f9;
+}
+
 .page-content{
   padding-top: 12px;  
 }
