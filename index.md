@@ -17,8 +17,8 @@ Technik ist bereit. Projekte starten. Doch Entscheidungen greifen nicht. Ich arb
 **Ich arbeite als Strukturgeber dort, wo Projekte laufen sollen – aber keine klare Richtung entfalten.** Nicht mit Werkzeugen. Sondern mit Sprache, Haltung und systemischer Klarheit.
 
 ***Stefan Bergmann*** <br>
+_Geschäftsführer der Enterstry GmbH_  
 _Strukturgeber für Organisationen und Projekte – wenn Führung fehlt_  
-_Geschäftsführer – Enterstry GmbH_
 
 
 ## Strukturfeld I – Technische Führung im System
