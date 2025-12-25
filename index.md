@@ -9,12 +9,12 @@ permalink: /
 ---
 
 **Ich stabilisiere technische Projekte und Organisationen, wenn interne Führung versagt.**  
+
 Ich kläre Rollen, entlaste Entscheider und halte Projekte handlungsfähig – besonders dort, wo externe Partner operieren, aber intern keine strukturelle Autorität wirkt.
 
 Technik ist bereit. Projekte starten. Doch Entscheidungen greifen nicht. Ich arbeite mit Organisationen im Mittelstand, in denen Systeme, Prozesse und Methoden vorhanden sind – aber keine innere Ordnung entsteht, die Entscheidungen trägt.
 
-**Ich arbeite als Strukturgeber dort, wo Projekte laufen sollen – aber keine klare Richtung entfalten.**  
-Nicht mit Werkzeugen. Sondern mit Sprache, Haltung und systemischer Klarheit.
+**Ich arbeite als Strukturgeber dort, wo Projekte laufen sollen – aber keine klare Richtung entfalten.** Nicht mit Werkzeugen. Sondern mit Sprache, Haltung und systemischer Klarheit.
 
 ***Stefan Bergmann*** <br>
 _Strukturgeber für Organisationen und Projekte – wenn Führung fehlt_  
@@ -31,13 +31,9 @@ Ich übernehme nicht das Projekt, sondern die strukturelle Verantwortung, die h�
 **Ich bin nicht CTO.**  
 **Ich halte strukturelle Führung über dem technischen System.**
 
-Ob ERP-Einführung, Cloud-Migration oder KI-Integration:  
-Technische Systeme greifen nur, wenn intern jemand Ordnung hält.  
-Ich arbeite in technisch und regulatorisch dichten Umfeldern – dort, wo Entscheidungen nicht nur funktionieren, sondern tragen müssen.
+Ob ERP-Einführung, Cloud-Migration oder KI-Integration: Technische Systeme greifen nur, wenn intern jemand Ordnung hält. Ich arbeite in technisch und regulatorisch dichten Umfeldern – dort, wo Entscheidungen nicht nur funktionieren, sondern tragen müssen.
 
-Ich kläre, wer entscheidet und wofür.  
-Ich halte Führung im Raum, ohne operativ einzugreifen.  
-So bleiben Systeme handlungsfähig, ohne von außen gesteuert werden zu müssen.
+Ich kläre, wer entscheidet und wofür. Ich halte Führung im Raum, ohne operativ einzugreifen. So bleiben Systeme handlungsfähig, ohne von außen gesteuert werden zu müssen.
 
 
 ## Strukturfeld II – Führung im technischen Projekt
@@ -63,8 +59,7 @@ So entsteht kein reines „Go-Live“, sondern ein Projekt, das tatsächlich gre
 **Ich vermittle strukturelle Führung.**  
 In Workshops, Schulungen und klärenden Führungsformaten.
 
-Ich befähige Teams und Entscheider,  
-Führung im technischen System und im technischen Projekt selbst zu tragen.
+Ich befähige Teams und Entscheider, Führung im technischen System und im technischen Projekt selbst zu tragen.
 
 
 <h2 id="wie-ich-arbeite">Wie ich arbeite</h2>
