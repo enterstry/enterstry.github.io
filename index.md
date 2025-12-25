@@ -10,20 +10,11 @@ permalink: /
 
 **Ich stabilisiere technische Projekte und Organisationen, wenn interne Führung versagt.** Ich kläre Rollen, entlaste Entscheider und halte Projekte handlungsfähig – besonders dort, wo externe Partner treiben, aber intern keine strukturelle Autorität wirkt.
 
-Projekte starten. Entscheidungen stocken.  
-Technik ist bereit – aber niemand setzt den Rahmen.
-Ich werde nicht geholt, wenn alles läuft – sondern wenn Orientierung fehlt und Projekte instabil werden.
+Projekte starten. Entscheidungen stocken. Technik ist bereit – aber niemand setzt den Rahmen. Ich werde nicht geholt, wenn alles läuft – sondern wenn Orientierung fehlt und Projekte instabil werden.
 
-Ich begleite Organisationen im Mittelstand –
-dort, wo Voraussetzungen geschaffen sind, aber keine innere Orientierung entsteht.
-Dort, wo ERP-Systeme, Prozesse und Methoden vorhanden sind –
-aber Zuständigkeiten wandern und Entscheidungen ihre Wirkung verlieren.
+Ich begleite Organisationen im Mittelstand – dort, wo Voraussetzungen geschaffen sind, aber keine innere Orientierung entsteht. Dort, wo ERP-Systeme, Prozesse und Methoden vorhanden sind – aber Zuständigkeiten wandern und Entscheidungen ihre Wirkung verlieren.
 
-***Ich arbeite als Strukturgeber in Organisationen und Projekten,  
-die laufen sollen – aber keine klare Richtung entfalten.***
-
-Nicht mit festgelegten Werkzeugen.   
-Sondern mit Sprache, Haltung und systemischer Klarheit.
+**Ich arbeite als Strukturgeber in Organisationen und Projekten, die laufen sollen – aber keine klare Richtung entfalten.** Nicht mit festgelegten Werkzeugen. Sondern mit Sprache, Haltung und systemischer Klarheit.
 
 Ich führe nicht nur intern – ich schaffe Ordnung dort,  
 wo externe Partner operativ führen, aber niemand strukturell gegenhält.
@@ -81,19 +72,15 @@ Führung im technischen System und im technischen Projekt selbst handlungsfähig
 ---
 
 **Ich arbeite nicht mit festgelegten Werkzeugen.**  
-Ich arbeite mit Sprache, Struktur und systemischer Führung.  
-Was ich tue, lässt sich in drei Schritten beschreiben:
+Ich arbeite mit Sprache, Struktur und systemischer Führung. Was ich tue, lässt sich in drei Schritten beschreiben:
 
 **1. Diagnose – wenn alles da ist, aber nichts greift.**<br>
 Wenn Projekte oder Organisationen geplant sind, aber nicht in Gang kommen.   
-Oder wenn alles läuft – aber intern niemand führt.   
-Ich kläre, wo Entscheidungen fehlen – und was verhindert, dass Struktur greift. 
+Oder wenn alles läuft – aber intern niemand führt. Ich kläre, wo Entscheidungen fehlen – und was verhindert, dass Struktur greift. 
 <br>
 
 **2. Struktur & Begleitung – wenn Richtung da ist, aber Rhythmus fehlt.** <br>
-Ich begleite Organisationen, die wissen, wo sie hinwollen   
-aber keine innere Ordnung haben, um dorthin zu kommen.     
-Nicht als Berater – sondern als strukturgebende Präsenz.  
+Ich begleite Organisationen, die wissen, wo sie hinwollen aber keine innere Ordnung haben, um dorthin zu kommen.Nicht als Berater – sondern als strukturgebende Präsenz.  
 <br>
 
 **3. Übergabe & Verstärkung – wenn Systeme wieder selbst führen.** <br>
@@ -114,16 +101,12 @@ die extern getrieben werden, aber intern niemand strukturell gegenhält.
 - **Strukturfeld III:** Ich befähige Teams und Entscheider,  
 strukturelle Führung selbst zu halten.
 
-Preise und Umfang definieren wir gemeinsam –  
-nach Lage, Wirkung und Verantwortung.
-
-Alles beginnt mit einem Gespräch. Nicht mit einem Angebot.
+Preise und Umfang definieren wir gemeinsam – nach Lage, Wirkung und Verantwortung. Alles beginnt mit einem Gespräch. Nicht mit einem Angebot.
 
 <h2 id="kontakt">Kontakt</h2>
 ---
 
-Wenn Sie Ordnung in ein Projekt bringen möchten – <br>
-oder Struktur in eine Organisation: <br>
+Wenn Sie Ordnung in ein Projekt bringen möchten – oder Struktur in eine Organisation: <br>
 Ich bin ansprechbar. <br>
 Gerne im Gespräch. <br>
 <br>
