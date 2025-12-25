@@ -56,19 +56,17 @@ So entsteht kein reines „Go-Live“, sondern ein Projekt, das tatsächlich gre
 ## Strukturfeld III – Führungsfähigkeit vermitteln
 ---
 
-**Ich vermittle strukturelle Führung.**  
-In Workshops, Schulungen und klärenden Führungsformaten.
+**Ich vermittle strukturelle Führung.**    
 
-Ich befähige Teams und Entscheider, Führung im technischen System und im technischen Projekt selbst zu tragen.
+In Workshops, Schulungen und klärenden Führungsformaten. Ich befähige Teams und Entscheider, Führung im technischen System und im technischen Projekt selbst zu tragen.
 
 
 <h2 id="wie-ich-arbeite">Wie ich arbeite</h2>
 ---
 
 **Ich arbeite nicht mit festgelegten Werkzeugen.**  
-Ich arbeite mit Sprache, Struktur und systemischer Führung.
 
-Mein Vorgehen lässt sich in drei Schritte fassen:
+Ich arbeite mit Sprache, Struktur und systemischer Führung. Mein Vorgehen lässt sich in drei Schritte fassen:
 
 **1. Diagnose – wenn alles da ist, aber nichts greift.**  
 Ich kläre, wo Entscheidungen fehlen und welche Strukturen verhindern, dass Orientierung wirksam wird.
@@ -93,10 +91,12 @@ Preise und Umfang definieren wir gemeinsam – nach Lage, Wirkung und Verantwort
 <h2 id="kontakt">Kontakt</h2>
 ---
 
-Wenn Sie Ordnung in ein Projekt bringen möchten  
-oder Struktur in eine Organisation:
+Wenn Sie Ordnung in ein Projekt  
+bringen möchten oder Struktur  
+in eine Organisation:  
 
-Ich bin ansprechbar. Gerne im Gespräch.  
+Ich bin ansprechbar.   
+Gerne im Gespräch.  
 
 **Enterstry GmbH & Co. KG** <br>
 *Stefan Bergmann* <br>
