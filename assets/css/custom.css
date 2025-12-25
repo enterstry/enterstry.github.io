@@ -171,7 +171,7 @@ section, h2, h3 {
 
   .about-image {
     display: block;
-    margin: 1.5rem auto 2.5rem auto;
+    margin: 0.5rem auto 2.0rem auto;
     max-width: 85%;
   }
   .about-image + h1 {
