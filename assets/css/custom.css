@@ -332,6 +332,11 @@ blog-teaser {
   margin-top: 20px;
 }
 
+.blog-post-content p {
+  text-align: justify;
+  hyphens: auto;
+}
+
 /* ================= Pager ================= */
 
 .pager{
