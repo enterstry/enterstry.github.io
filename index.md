@@ -6,7 +6,7 @@ permalink: /
 ---
 
 <section class="page-hero">
-  <div class="kicker">Enterstry · Start</div>
+  <div class="kicker">Enterstry · Führung</div>
   <h1>Wenn Technik greift – aber Führung fehlt.</h1>
 </section>
 <hr>
