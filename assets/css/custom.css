@@ -351,14 +351,10 @@ blog-teaser {
 }
 
 .post-tags .tag {
-  display: inline-block;
-  padding: 0.15rem 0.5rem;
-  margin-right: 0.4rem;
   font-size: 0.75rem;
+  letter-spacing: 0.05em;
   color: #333;
-  border: 1px solid #ddd;
-  border-radius: 12px;
-  background: #fafafa;
+  text-transform: uppercase;
 }
 
 
