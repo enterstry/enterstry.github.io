@@ -216,32 +216,7 @@ section, h2, h3 {
     letter-spacing: -0.01em;
   }
 
- .hero-text,
-  .intro-text {
-    font-size: 0.95rem;
-    line-height: 1.55;
-  }
-
-  .hero-text p {
-    margin-bottom: 0.75rem;
-  }
-
 }
-
-/* ================= Hero / Lead ================= */
-
-.divider-small{
-  border:0;
-  border-top:1px solid var(--line);
-  margin:12px 0;
-}
-
-.lead{
-  font-size:clamp(18px,2.8vw,28px);
-  max-width:30ch;
-  color:var(--muted)
-}
-
 /* ================= Shared Blog / Archiv Styles (FreeData + Enterstry) ================= */
 
 blog-teaser {
