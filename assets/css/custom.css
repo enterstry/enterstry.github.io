@@ -322,6 +322,10 @@ blog-teaser {
   margin-top: 0px;
 }
 
+.blog-post hr {
+  margin: -0.8rem 0 0.5rem 0;
+}
+
 .blog-post-content {
   margin-top: 20px;
 }
