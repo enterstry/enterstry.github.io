@@ -260,13 +260,13 @@ blog-teaser {
   margin: 0;
   font-size: clamp(20px,3vw,24px);
   padding-bottom: 5px;
-  opacity: 0.8;
 }
 
 .blog-title a{
   color: var(--fg);
   border-bottom: 0;
   text-decoration: none;
+  opacity: 0.8;
 }
 
 .blog-title a:hover{
