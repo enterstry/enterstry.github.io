@@ -161,7 +161,7 @@ section, h2, h3 {
 }
 
 .about-image {
-    display: contents;
+    display: block;
     margin: 0.5rem auto 2.0rem auto;
     max-width: 40%; 
     float: right; 

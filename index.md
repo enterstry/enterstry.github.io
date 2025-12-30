@@ -5,8 +5,12 @@ layout: page_no_title
 permalink: /
 ---
 
-# Wenn Technik greift – aber Führung fehlt
----
+<section class="blog-hero">
+  <div class="kicker">Enterstry · Start</div>
+  <h1>Wenn Technik greift – aber Führung fehlt.</h1>
+</section>
+
+<hr class="divider-small"/>
 
 **Ich stabilisiere technische Projekte und Organisationen,**  
 **wenn Führung intern nicht greift.**  
