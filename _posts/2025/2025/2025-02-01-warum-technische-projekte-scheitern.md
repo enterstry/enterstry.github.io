@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Warum technische Projekte scheitern, obwohl alles vorbereitet ist"
+title: "What is Lorem Ipsum?"
 description: "Warum technische Projekte selten an Technik scheitern und welche strukturellen Muster dahinter stehen."
 date: 2025-02-01
 theme: light
@@ -12,7 +12,7 @@ tags:
 ---
 
 <blog-teaser>
-Technische Projekte scheitern selten an Technik, sondern an Kommunikationsformen, die Entscheidungen nicht stabilisieren können. Oft ist alles vorhanden – nur die Struktur fehlt, die Wirkung ermöglicht. 
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
 </blog-teaser>
 
 <!--more-->
