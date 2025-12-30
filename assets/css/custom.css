@@ -347,12 +347,18 @@ blog-teaser {
 }
 
 .post-tags {
-  margin-top: 0.5rem;
-  font-size: 0.85rem;
-  color: #777;
+  margin-bottom: 0.5rem;
 }
+
 .post-tags .tag {
-  margin-right: 0.5rem;
+  display: inline-block;
+  padding: 0.15rem 0.5rem;
+  margin-right: 0.4rem;
+  font-size: 0.75rem;
+  color: #333;
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  background: #fafafa;
 }
 
 

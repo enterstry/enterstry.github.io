@@ -26,12 +26,6 @@ theme: light
   {% for post in published_posts %}
     <article class="blog-row">
       <div class="blog-row-head">
-        <h2 class="blog-title">
-          <a href="{{ post.url }}">{{ post.title }}</a>
-        </h2>
-        <div class="blog-date">
-          {{ post.date | date: "%d.%m.%Y" }}
-        </div>
 
         {% if post.tags %}
         <div class="post-tags">
@@ -40,6 +34,13 @@ theme: light
           {% endfor %}
         </div>
         {% endif %}
+
+        <h2 class="blog-title">
+          <a href="{{ post.url }}">{{ post.title }}</a>
+        </h2>
+        <div class="blog-date">
+          {{ post.date | date: "%d.%m.%Y" }}
+        </div>
 
       </div>
 
