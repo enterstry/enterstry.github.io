@@ -12,6 +12,12 @@ body {
   padding-top: 12px;  
 }
 
+.wrapper {
+  padding-right: 5px;
+  padding-left: 5px;
+}
+
+
 /* Ersten h1 auf der Seite etwas näher an den Header holen */
 /*.page-content h1:first-of-type{
   margin-top: 12px;
