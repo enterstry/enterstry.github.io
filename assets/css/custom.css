@@ -399,11 +399,6 @@ blog-teaser {
   color:var(--fg);
 }
 
-.lead .pager-pill{
-  font-size: 13px;
-  padding:5px 10px;
-}
-
 /* ================= Jahres-Nav (Archiv) ================= */
 
 .year-nav{
