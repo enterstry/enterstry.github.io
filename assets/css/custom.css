@@ -169,7 +169,7 @@ section, h2, h3 {
 .about-image {
     display: block;
     margin: 0.5rem auto 2.0rem auto;
-    max-width: 40%; 
+    max-width: 33%; 
     float: right; 
     margin-left: 2rem; 
     border-radius: 6px;
