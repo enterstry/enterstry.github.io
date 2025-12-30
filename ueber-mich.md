@@ -8,7 +8,7 @@ permalink: /ueber-mich/
 <section class="hero">
   <img class="about-image" src="/assets/images/stefan.jpg" alt="Stefan Bergmann">
   <div class="kicker">Enterstry · Über mich</div>
-  <h1>Selbstsbeschreibung</h1>
+  <h1>Selbstbeschreibung</h1>
 </section>
 <hr>
 
