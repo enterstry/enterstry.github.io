@@ -9,8 +9,7 @@ permalink: /
   <div class="kicker">Enterstry · Start</div>
   <h1>Wenn Technik greift – aber Führung fehlt.</h1>
 </section>
-
-<hr class="divider-small"/>
+<hr>
 
 **Ich stabilisiere technische Projekte und Organisationen,**  
 **wenn Führung intern nicht greift.**  
