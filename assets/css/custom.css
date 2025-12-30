@@ -319,7 +319,6 @@ blog-teaser {
   text-align: right;
 }
 
-
 /* Weiterlesen-Link schlicht */
 .blog-read a{
   font-size: 14px;
@@ -334,28 +333,19 @@ blog-teaser {
   opacity: 1;
 }
 
+.blog-tags {
+  color: #333;
+  font-size: 0.8rem;
+  word-spacing: 0.3rem;
+}
+
+.blog-tags .tag:not(:last-child)::after {
+  content: " · ";
+  margin: 0 0.25rem;
+}
+
+
 /* ================= Blog Post Layout ================= */
-
-.post-header{
-  margin-bottom: 10px;
-  display: grid;
-  gap: 4px;
-}
-
-.post-title{
-  margin: 0;
-  font-size: clamp(20px,3vw,28px);
-  letter-spacing: 0px;
-  color: var(--fg);
-  line-height: 1;
-}
-
-.post-meta{
-  font-size: 13px;
-  color: var(--muted);
-  text-transform: uppercase;
-  letter-spacing: .12em;
-}
 
 .post-content{
   display: grid;
@@ -363,17 +353,6 @@ blog-teaser {
   font-size: 18px;
   line-height: 1.6;
   max-width: 100ch;
-}
-
-.post-tags {
-  color: #333;
-  font-size: 0.8rem;
-  word-spacing: 0.3rem;
-}
-
-.post-tags .tag:not(:last-child)::after {
-  content: " · ";
-  margin: 0 0.25rem;
 }
 
 
