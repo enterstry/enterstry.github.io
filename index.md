@@ -5,7 +5,7 @@ layout: page_no_title
 permalink: /
 ---
 
-<section class="hero">
+<section class="page-hero">
   <div class="kicker">Enterstry · Start</div>
   <h1>Wenn Technik greift – aber Führung fehlt.</h1>
 </section>

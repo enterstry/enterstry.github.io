@@ -5,7 +5,7 @@ layout: page_no_title
 permalink: /ueber-mich/
 ---
 
-<section class="hero">
+<section class="page-hero">
   <img class="about-image" src="/assets/images/stefan.jpg" alt="Stefan Bergmann">
   <div class="kicker">Enterstry · Über mich</div>
   <h1>Selbstbeschreibung</h1>
