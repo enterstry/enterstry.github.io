@@ -230,13 +230,6 @@ section, h2, h3 {
   margin:12px 0;
 }
 
-.hero{
-  min-height:92svh;
-  display:grid;
-  align-content:center;
-  gap:28px;
-}
-
 .lead{
   font-size:clamp(18px,2.8vw,28px);
   max-width:30ch;
