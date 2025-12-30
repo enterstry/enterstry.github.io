@@ -129,8 +129,9 @@ a:hover{
   text-decoration: none !important;
 }
 
-.footer-link {
-  margin-right: 1rem;
+.footer-link:not(:last-child)::after {
+  content: " · ";
+  margin: 0 0.25rem;
 }
 
 .footer-link:last-child {
