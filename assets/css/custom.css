@@ -323,6 +323,10 @@ blog-teaser {
   margin-top: 0px;
 }
 
+.blog-post-content {
+  margin-top: 20px;
+}
+
 /* ================= Pager ================= */
 
 .pager{
