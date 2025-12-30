@@ -246,9 +246,9 @@ section, h2, h3 {
 
 blog-teaser {
   display: block;
-  font-weight: 600;
   font-style: italic;
   color: #333;
+  font-size: 16px;
 }
 
 .blog-meta {
