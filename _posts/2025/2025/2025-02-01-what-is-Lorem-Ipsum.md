@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "What is Lorem Ipsum?"
-description: "Warum technische Projekte selten an Technik scheitern und welche strukturellen Muster dahinter stehen."
+description: "What is Lorem Ipsum?"
 date: 2025-02-01
 theme: light
 sitemap: false
 published: true #true to show
 tags:
- - Entscheidung
- - Projekte
+ - Lorem
+ - Ipsum
 ---
 
 <blog-teaser>
