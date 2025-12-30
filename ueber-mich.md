@@ -7,8 +7,11 @@ permalink: /ueber-mich/
 
 <img class="about-image" src="/assets/images/stefan.jpg" alt="Stefan Bergmann">
 
-# Über mich
----
+<section class="hero">
+  <div class="kicker">Enterstry · Über mich</div>
+  <h1>Selbstsbeschreibung</h1>
+</section>
+<hr>
 
 Ich bin Strukturgeber für technische Projekte im Mittelstand. Ich begleite ERP-, Cloud- und Software-Projekte auf Kundenseite – dort, wo Führung, Rollenklärung und Entscheidungen im technischen System fehlen.
 
