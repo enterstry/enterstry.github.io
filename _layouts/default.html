@@ -1,69 +1,71 @@
 <!DOCTYPE html>
+
 <html lang="de">
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <!-- Open Graph (Facebook, LinkedIn) -->
-  <meta property="og:title" content="Systemische Klarheit für IT-nahe Organisationen">
-  <meta property="og:description" content="Beratung und Strukturarbeit für IT-nahe Organisationen im Mittelstand. Führt technische Projekte auf Kundenseite, wenn Dienstleister treiben, aber interne Führung fehlt.">
-  <meta property="og:url" content="https://www.enterstry.de/">
-  <meta property="og:type" content="website">
-  <meta property="og:image" content="https://www.enterstry.de/assets/images/logo.png">
+    <!-- Open Graph (Facebook, LinkedIn) -->
+    <meta property="og:title" content="Systemische Klarheit für IT-nahe Organisationen">
+    <meta property="og:description" content="Beratung und Strukturarbeit für IT-nahe Organisationen im Mittelstand. Führt technische Projekte auf Kundenseite, wenn Dienstleister treiben, aber interne Führung fehlt.">
+    <meta property="og:url" content="https://www.enterstry.de/">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="https://www.enterstry.de/assets/images/logo.png">
 
-  <!-- Twitter Card -->
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="Systemische Klarheit für IT-nahe Organisationen">
-  <meta name="twitter:description" content="Beratung und Strukturarbeit für IT-nahe Organisationen im Mittelstand. Führt technische Projekte auf Kundenseite, wenn Dienstleister treiben, aber interne Führung fehlt.">
-  <meta name="twitter:image" content="https://www.enterstry.de/assets/images/logo.png">
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Systemische Klarheit für IT-nahe Organisationen">
+    <meta name="twitter:description" content="Beratung und Strukturarbeit für IT-nahe Organisationen im Mittelstand. Führt technische Projekte auf Kundenseite, wenn Dienstleister treiben, aber interne Führung fehlt.">
+    <meta name="twitter:image" content="https://www.enterstry.de/assets/images/logo.png">
 
-  <title>{{ page.title }}</title>
+    <title>{{ page.title }}</title>
 
-  <!-- SEO-Basis-Metadaten -->
-  <meta name="robots" content="index, follow">
-  {% if page.description %}
-    <meta name="description" content="{{ page.description | escape }}">
-  {% endif %}
-  <meta name="keywords" content="Organisationsberatung, Strukturgeber, Strukturarbeit, Führung, IT, Projekte, Open-Source, ERP, Mittelstand">
-  <meta name="author" content="Stefan Bergmann">
+    <!-- SEO-Basis-Metadaten -->
+    <meta name="robots" content="index, follow">
+    {% if page.description %}
+      <meta name="description" content="{{ page.description | escape }}">
+    {% endif %}
+    <meta name="keywords" content="Organisationsberatung, Strukturgeber, Strukturarbeit, Führung, IT, Projekte, Open-Source, ERP, Mittelstand">
+    <meta name="author" content="Stefan Bergmann">
 
-  <link rel="canonical" href="{{ page.url | absolute_url }}">
-  <link rel="icon" type="image/png" href="/assets/favicon.ico">
+    <link rel="canonical" href="{{ page.url | absolute_url }}">
+    <link rel="icon" type="image/png" href="/assets/favicon.ico">
 
-  {% if site.theme %}
-    <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
-  {% endif %}
-  <link rel="stylesheet" href="/assets/css/custom.css">
+    {% if site.theme %}
+      <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+    {% endif %}
+    <link rel="stylesheet" href="/assets/css/custom.css">
 
-  <!-- Strukturierte Daten -->
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Enterstry GmbH & Co. KG",
-    "url": "https://www.enterstry.de",
-    "logo": "https://www.enterstry.de/assets/images/logo.png",
-    "description": "Systemische Klarheit für IT-nahe Organisationen im Mittelstand.",
-    "address": {
-      "@type": "PostalAddress",
-      "streetAddress": "Pyrbaumer Weg 8a",
-      "postalCode": "90502",
-      "addressLocality": "Schwarzenbruck",
-      "addressCountry": "DE"
-    },
-    "founder": "Stefan Bergmann"
-  }
-  </script>
-</head>
+    <!-- Strukturierte Daten -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "Enterstry GmbH & Co. KG",
+      "url": "https://www.enterstry.de",
+      "logo": "https://www.enterstry.de/assets/images/logo.png",
+      "description": "Systemische Klarheit für IT-nahe Organisationen im Mittelstand.",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Pyrbaumer Weg 8a",
+        "postalCode": "90502",
+        "addressLocality": "Schwarzenbruck",
+        "addressCountry": "DE"
+      },
+      "founder": "Stefan Bergmann"
+    }
+    </script>
+  </head>
 
-<body>
-  {% include header.html %}
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      {{ content }}
-    </div>
-  </main>
-  {% include footer.html %}
-</body>
+  <body>
+    {% include header.html %}
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+    {% include footer.html %}
+  </body>
+
 </html>
