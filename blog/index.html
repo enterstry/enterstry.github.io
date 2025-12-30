@@ -21,10 +21,6 @@ theme: light
     <article class="blog-row">
 
       <div class="blog-meta">
-        <div class="blog-date">
-          {{ post.date | date: "%d.%m.%Y" }}
-        </div>
-
         {% if post.tags %}
         <div class="post-tags">
           {% for tag in post.tags %}
@@ -32,6 +28,9 @@ theme: light
           {% endfor %}
         </div>
         {% endif %}
+        <div class="blog-date">
+          {{ post.date | date: "%d.%m.%Y" }}
+        </div>
       </div>
 
       <div class="blog-row-head">

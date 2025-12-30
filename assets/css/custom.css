@@ -298,10 +298,9 @@ blog-teaser {
 }
 
 .blog-date{
+  color: #333;
   font-size: 0.8rem;
-  color: #777;
   text-transform: uppercase;
-  letter-spacing: .12em;
   white-space: nowrap;
   text-align: right;
 }
