@@ -344,6 +344,10 @@ blog-teaser {
   margin: 0 0.25rem;
 }
 
+.blog-post h2, .blog-post h3, .blog-post h4 {
+  margin-top: 0px;
+}
+
 /* ================= Pager ================= */
 
 .pager{
