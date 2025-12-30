@@ -4,7 +4,11 @@ title: "Warum technische Projekte scheitern, obwohl alles vorbereitet ist"
 description: "Warum technische Projekte selten an Technik scheitern und welche strukturellen Muster dahinter stehen."
 date: 2025-02-01
 theme: light
-published: false #true to show
+sitemap: false
+published: true #true to show
+tags:
+ - Entscheidung
+ - Projekte
 ---
 
 <blog-teaser>
