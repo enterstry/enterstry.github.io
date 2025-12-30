@@ -314,6 +314,12 @@ blog-teaser {
   max-width: 100ch;
 }
 
+.blog-read {
+  padding-top: 5px;
+  text-align: right;
+}
+
+
 /* Weiterlesen-Link schlicht */
 .blog-read a{
   font-size: 14px;
