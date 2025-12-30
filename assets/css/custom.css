@@ -224,6 +224,7 @@ blog-teaser {
   font-style: italic;
   color: #333;
   font-size: 16px;
+  padding-bottom: 10px;
 }
 
 .blog-meta {
