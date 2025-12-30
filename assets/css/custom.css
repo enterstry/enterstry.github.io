@@ -242,6 +242,13 @@ blog-teaser {
   color: #333;
 }
 
+.blog-hero h1 {
+  font-size: 2.2rem;      /* etwas kleiner als Startseite */
+  font-weight: 600;
+  color: #111;
+  margin: 0.5rem 0 1.5rem;
+}
+
 .blog-list{
   display:grid;
   gap:0;
@@ -351,17 +358,15 @@ blog-teaser {
   word-spacing: 0.3rem;
 }
 
-.post-tags .tag {
-  font-size: 0.75rem;
-  letter-spacing: 0.04em;
+.post-tags {
   color: #333;
-  text-transform: uppercase;
-  font-weight: 500;
+  font-size: 0.8rem;
+  margin: 0.25rem 0 0.5rem;
 }
 
 .post-tags .tag:not(:last-child)::after {
   content: " · ";
-  margin: 0 0.2rem;
+  margin: 0 0.25rem;
 }
 
 
