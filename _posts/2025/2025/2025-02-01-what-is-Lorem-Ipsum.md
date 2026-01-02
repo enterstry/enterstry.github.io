@@ -5,7 +5,7 @@ description: "What is Lorem Ipsum?"
 date: 2025-02-01
 theme: light
 sitemap: false
-published: true #true to show
+published: false #true to show
 tags:
  - Lorem
  - Ipsum
