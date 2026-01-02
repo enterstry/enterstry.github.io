@@ -29,6 +29,14 @@ Diese fehlende Führung versuchen Organisationen häufig mit mehr Steuerung zu k
 
 Solange Führung im technischen System nicht geklärt ist, bleibt jedes Projekt fragil. Nicht, weil die Beteiligten es nicht könnten, sondern weil niemand die Verantwortung hält, die das System benötigt, um wirksam zu werden.
 
-Führung zeigt sich dort, wo Entscheidungen einen Ort haben. Sie fehlt dort, wo Verantwortung wandert. Sie ist nicht Steuerung, sondern Orientierung.  
+Führung zeigt sich dort,   
+wo Entscheidungen einen Ort haben. 
 
-Sie ist eine Systemfunktion, keine Rolle.
+Sie fehlt dort,   
+wo Verantwortung wandert.   
+
+Sie ist nicht Steuerung,   
+sondern Orientierung.     
+
+Sie ist eine Systemfunktion,  
+keine Rolle.
