@@ -19,8 +19,6 @@ Budgets sind freigegeben, Systeme ausgewählt, Dienstleister beauftragt – und 
 
 ---
 
-# Warum technische Projekte scheitern, obwohl alles vorbereitet ist
-
 In technischen Projekten ist zu Beginn meist das Wesentliche geregelt. Budgets sind freigegeben, Systeme ausgewählt, Dienstleister beauftragt, Zeitpläne definiert. Auf dem Papier wirkt alles vorbereitet. Und dennoch beginnen Projekte zu stocken, kaum dass sie gestartet sind. Entscheidungen verzögern sich, Zuständigkeiten verschieben sich, Verantwortung wird weitergereicht. Meetings häufen sich, ohne dass dabei etwas verbindlich wird.
 
 Technische Projekte werden häufig als operative Vorhaben behandelt. Sie werden geplant, strukturiert und mit Zeitachsen versehen. Methoden und Rollen kommen hinzu, oft sehr sorgfältig. Was dabei jedoch übersehen wird: Technik braucht nicht nur Umsetzung – sie braucht **strukturelle Führung**.
