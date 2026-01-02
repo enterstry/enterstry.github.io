@@ -3,7 +3,7 @@ layout: post
 title: "Warum technische Projekte scheitern, obwohl alles vorbereitet ist"
 date: 2026-01-01
 published: true
-sitemap: false
+sitemap: true
 tags:
  - Strukturelle Führung
  - Technische Projekte
@@ -12,7 +12,7 @@ tags:
 ---
 
 <blog-teaser>
-Budgets sind freigegeben, Systeme ausgewählt, Dienstleister beauftragt – und trotzdem greifen Entscheidungen nicht. Warum technische Projekte trotz bester Vorbereitung instabil werden.
+Budgets sind freigegeben, Systeme ausgewählt, Dienstleister beauftragt – und trotzdem greifen Entscheidungen nicht. Warum technische Projekte trotz bester Vorbereitung instabil werden. <br><br>
 </blog-teaser>
 
 <!--more-->
