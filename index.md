@@ -11,8 +11,7 @@ permalink: /
 </section>
 <hr>
 
-**Ich stabilisiere technische Projekte und Organisationen,**  
-**wenn Führung intern nicht greift.**  
+**Ich stabilisiere technische Projekte und Organisationen - wenn Führung intern nicht greift.**  
 
 Ich kläre Rollen, entlaste Entscheider und halte Projekte handlungsfähig – besonders dort, wo externe Partner operieren, aber intern keine strukturelle Autorität wirkt.
 
