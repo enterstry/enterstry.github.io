@@ -290,11 +290,7 @@ blog-teaser {
 }
 
 .blog-date{
-  color: #333;
-  font-size: 0.8rem;
-  text-transform: uppercase;
-  white-space: nowrap;
-  text-align: left;
+  font-weight: bold;
 }
 
 /* Teaser */

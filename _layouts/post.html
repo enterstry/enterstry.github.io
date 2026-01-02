@@ -12,7 +12,7 @@ layout: page_no_title
 
   <div class="blog-meta">
     <div class="blog-tags">
-      <span class="tag">{{ page.date | date: "%d.%m.%Y" }}</span>
+      <span class="tag blog-date">{{ page.date | date: "%d.%m.%Y" }}</span>
       {% for tag in page.tags %}
         <span class="tag">{{ tag }}</span>
       {% endfor %}
