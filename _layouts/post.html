@@ -10,10 +10,11 @@ layout: page_no_title
   </section>
   <hr> 
 
+  <div class="blog-date">
+    {{ page.date | date: "%d.%m.%Y" }}
+  </div>
+
   <div class="blog-meta">
-    <div class="blog-date">
-      {{ page.date | date: "%d.%m.%Y" }}
-    </div>
     {% if page.tags %}
     <div class="blog-tags">
       {% for tag in page.tags %}
