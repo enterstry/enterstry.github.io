@@ -41,3 +41,11 @@
 
 ## 12. Die Kunst des strukturellen Gegenhalts
 (Warum Präsenz wichtiger ist als jede Methode.)
+
+
+## Wichtig:
+- Länge eines Blogs: 400 Wörter (600-900 Wörter)
+- Ein Gedanke pro Text
+    - Eine Beobachtung; ein Muster; eine Schlussfolgerung
+    - Text braucht keinen Schluss; aber Anschlussfähigkeit   
+- Tags sind keine Kategorien und keine Themenwolke, sondern Denkanker
