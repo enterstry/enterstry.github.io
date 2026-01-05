@@ -147,6 +147,7 @@ a:hover{
 /* ================= Typografie & Abstände ================= */
 h1 {
   color: var(--fg);
+  margin-top: 1rem;
 }
 
 h2, h3, h4 {
