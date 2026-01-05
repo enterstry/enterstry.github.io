@@ -2,8 +2,10 @@
 layout: post
 title: "Warum technische Projekte scheitern, obwohl alles vorbereitet ist"
 date: 2026-01-01
+
 published: true
 sitemap: true
+
 tags:
  - Strukturelle Führung
  - Technische Projekte
