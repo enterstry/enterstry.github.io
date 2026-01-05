@@ -78,6 +78,13 @@ Befähigung von Teams und Entscheidern, strukturelle Führung selbst zu tragen.
 
 Preise und Umfang klären wir im Gespräch - nach Lage, Wirkung und Verantwortung. 
 
+---
+_Organisationen scheitern selten an fehlendem Wissen._  
+_Sie scheitern daran, Verantwortung zu klären._
+
+_Genau dort beginne ich zu arbeiten._
+
+
 <h2 id="kontakt">Kontakt</h2>
 ---
 
