@@ -82,8 +82,11 @@ Preise und Umfang klären wir im Gespräch - nach Lage, Wirkung und Verantwortun
 <h2 id="haltung">Worum es am Ende geht</h2>
 ---
 
-_Organisationen scheitern selten an fehlendem Wissen._  
-_Sie scheitern daran, Verantwortung zu klären._  
+_Organisationen scheitern selten_  
+_an fehlendem Wissen._  
+
+_Sie scheitern daran,_  
+_Verantwortung zu klären._  
 
 _Genau dort beginne ich zu arbeiten._
 
