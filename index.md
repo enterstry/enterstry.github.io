@@ -76,7 +76,7 @@ Führung in Projekten, die extern getrieben werden, ohne dass intern strukturell
 - **Strukturfeld III:**  
 Befähigung von Teams und Entscheidern, strukturelle Führung selbst zu tragen.
 
-Preise und Umfang klären wir im Gespräch - nach Lage, Wirkung und Verantwortung. 
+**Preise und Umfang klären wir im Gespräch - nach Lage, Wirkung und Verantwortung.** 
 
 _Organisationen scheitern selten an fehlendem Wissen._  
 _Sie scheitern daran, Verantwortung zu klären._
